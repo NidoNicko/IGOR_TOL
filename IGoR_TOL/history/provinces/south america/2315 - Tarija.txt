@@ -1,0 +1,6 @@
+owner = PEU
+controller = PEU
+add_core = PEU
+add_core = ARG
+trade_goods = wool
+life_rating = 36

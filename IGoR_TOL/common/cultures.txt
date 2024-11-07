@@ -1,0 +1,93 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new groups or cultures, make sure they are unique.
+
+iberian = {
+	leader = southamerican
+	unit = SpanishGC
+	basque = {
+		color = {220 70 40}
+		first_names = { Alfontso Alvar Antso Aznar Belasko Bermudo Bernart Diaco Donato Egidio
+			Eneko Erramun Fortun Galindo Gartzia Gilen Gontzal Herramel Joanes
+			Ladron Lupo Luis Manrike Mart√≠n Munio Nuno Obeko Ordono Pelaio Piarres
+			Ramiro Rodrigo Vela Ximeno Zentulo Aitor Ander Andoni 
+		Ceferino Cosme Dami·n Endika "Frantzisko Xabierkoa" Inigo Imanol IÒaki 
+		Jon Joseba Josu Julen Koldobikal Sabino }
+
+		last_names = { Aguirre Ajuriaguerra Aldecoa Arana Aranzadi Arizmendiarrieta Armend·riz Aznar Balenciaga Berasategui
+		Bilbao CampiÛn Churruca "de AmÈsquita" "de Azpilicueta" "de Erauso" "de Renter√≠a" "de Ubisztongo" "de Navarra" "de Beaumont" "de Ler√≠n" "de Monteagudo" Escors  Echag¸e Echave
+		 Echegaray Echevarr√≠a Elorza GaztaÒeta Ibarrola Ib·rruri Irujo Lazcano Mendizabal Moneo
+		N·rdiz Olano Olave Oyarz·bal Rotaeche Uzcudun Zam·rraga Z·rate Zavala Zumalac·rregui }
+		radicalism = 15
+	}
+	asturleonese  = {
+		color = {150 190 30}
+		first_names = { Agust√≠n Alberto Alejandro Alfonso √Ålvaro Antonio "Antonio Mar√≠a" Arsenio Augusto Baldomero
+		Baltasar Benito Bernardino Bernardo Calixto Carlos Celestino Claudio Cristobal D·maso
+		Diego Dionisio Eduardo Emilio Estanislao Federico Felipe FÈlix Fernando Francisco
+		"Francisco Javier" Gabino Gabriel Gaspar Genaro Gonzalo Ignacio Isidro Jacobo Jaime
+		Joaqu√≠n JosÈ "JosÈ Antonio" "JosÈ Manuel" "JosÈ Mar√≠a" Juan "Juan Bautista" Julio Leopoldo Lorenzo
+		Luis Manuel Marcelo Mariano Mateo Melchor Miguel Nicol·s Pablo Pascual
+		Pedro Rafael Raimundo RamÛn Ricardo Santiago Sebasti·n Segismundo Valeriano Vicente }
+	 last_names = { AcuÒa Aguirre Alcal·-Zamora Allendesalazar Alonso √Ålvarez "√Ålvarez de Toledo" Aranda Arg¸elles-Meres Asensio
+		Aznar Barradas Bugallal Cabrera "Cagigal de la Vega" Cano Cervera "de Albornoz" "de BorbÛn"
+		"de Carvajal" "de la Fuente" "de Orleans" D√≠az Espartero Fern·ndez "Fern·ndez de CÛrdoba" "Fitz-James Stuart" Franco
+		Garc√≠a "Garc√≠a de la Noceda" Gonz·lez Heredia Hern·ndez Herrera Hevia "Hidalgo de Cisneros" Linares LÛpez
+		Maroto M·rquez Mart√≠nez-Campos Maura MenÈndez Miaja Mill·n-Astray Mina Mola MuÒoz
+		Narv·ez O'Donnell Ortega Pav√≠a PÈrez "Primo de Rivera" "Queipo de Llano" Rodr√≠guez Rojo Ruiz
+		Sanjurjo Serrano Silvestre Topete ValdÈs Varela Villapol Villar Weyler Yag¸e }
+	}
+	catalan = {
+		color = {220 110 30}
+		first_names = { Albert Alexandre Alfons Alfonso AndrÈs Andreu Antoni Carles Cassi√† Dalmau
+		David Eduard Enric Enrique Federico Felip Fernando Ferran Francesc Gaspar
+		Gerard Isaac Jacint Jaume Joan Jordi JosÈ Josep Juan LlorenÁ
+		Lluis Manel Manuel Marc Miquel Narc√≠s Pasqual Pau Pedro Pere
+		Pompeu Rafael Rafel Ramon Ricardo Salvador Sergi Valnt√≠ Victor Xavier }
+
+		last_names = { AlbÈniz Almirall Bacard√≠ Batet Berenguer Borr·s Borrell Cadafall Carner Casals
+		Casanova CastellÛ Claramunt Cucala Cugat Despujol DomËnech Escotet Fabra Fages
+		"Folc de Cardona" Gumer√† Irla Llauder Maci√† Maragall Margall "Milans del Bosch" MirÛ Mompou
+		Montaner Moragues Moret Nebot Nin Oller Prat Prim Puig Riba
+		Roig Sala Saliquet Savalls Serra Sor Tristany Verdaguer Virigili Vives }
+	}
+	portuguese = {
+		color = {160 220 30}
+		first_names = { Abel Adriano Afonso Alberto Alexandre Alfredo √Ålvaro AndrÈ AntÛnio Aquilino
+		Artur Augusto Bartolomeu Bernardo Bruno Caetano C√¢ndido Carlos Christov„o Cl·udio
+		Dami„o Daniel David Dinis Diogo Duarte Ernesto Est√™v„o EugÈnio Fernando
+		Filipe Francisco "Francisco Xavier" Gast„o Hermenegildo Ign·cio Jer√¥nimo Jo„o Joaquim Jorge
+		JosÈ Julio Leopoldo Lu√≠s Manuel M·rio Miguel Nicolau Nuno Orlando
+		Oscar Pascoal Paulo Pedro Rafael Raul Roberto Rodrigo Rui Santiago
+		Sebasti„o Teodoro TeÛfilo Tiago TomÈ Urbano Vasco Vicente Vitorino VitÛrio }
+
+		last_names = { Amaral Barreto Bleck Braga Cabral Capelo Carmona Coelho Correia Coutinho
+		"da Costa" "da Cunha" "da Silva" "de Albuquerque" "de Almeida" "de Arriaga" "de BraganÁa" "de BraganÁa-Coburgo" "de Carvalho"
+		"de Castro" "de Gusm„o" "de Lacerda" "de Mesquita" "de Moura" "de Noronha" "de Oliveira" "de Paiva" "de Sousa" "de Vasconcelos"
+		Dias "dos Reis" "dos Santos" Fernandes Ferreira Figueira "Freire de Andrade" Gago Gil Gomes
+		Herculano Ivens Keil Lopes Machado Magalh„es Mendes Moniz Mouzinho Nogueira
+		Nunes Ortig„o Pereira Pinheiro Pinto Pires Pomar Pulido Queiroz Quintanilha
+		Ribeiro Rodrigues Salazar Sampaio SÈrgio Silveira Tdagestanies Teixeira Vidigal Vieira }
+	}
+	mozarabic = {
+		color = {105 155 80}
+		first_names = {
+			"Abd Allah" "Abd al-Karim" "Abd al-Malik" "Abd al-Qadir" "Abd al-Rahman" Ahmad Ali
+			Fawzi Fuad Halil Hasan Hisham Ibrahim Ishaq Iskandar Jamal Kamil Khalid Mahmud
+			Muhammad Mustafa "Nur al-Din" "Sa'd al-Din" Salim Shukri
+			Tawfiq Umar Uthman Yahya Yusuf Zafir
+			}
+	
+		last_names = {
+			"al-Annabi" "al-Araishi" "al-Asfawi" "al-Binzarti" "al-Fasi" "al-Gharyani"
+			"al-Jaza'iri" "al-Miknasi" "al-Misurati" "al-Murrakushi" "al-Qabisi" "al-Qayrawani" "al-Ribati" "al-Safaqisi"
+			"al-Silawi" "al-Sirti" "al-Susawi" "al-Tilimsani" "al-Tanjawi" "al-Tatwani" "al-Trablusi" "al-Tunusi"
+			"al-Wahrani" "al-Warqali" "al-Wujdi"
+			"ibn Abd Allah" "ibn Abd al-Qadir" "ibn Abu Bakr" "ibn Ahmad" "ibn Ali"
+			"ibn Fuad" "ibn Halil" "ibn Hasan" "ibn Hisham" "ibn Ishaq" "ibn Ja'far" "ibm Kamil" "ibn Khalid"
+			"ibn Muhammad" "ibn Mustafa" "ibn Salim"
+			"ibn Umar" "ibn Uthman" "ibn Yusuf"
+			}
+	}
+	
+	union = IBR
+}

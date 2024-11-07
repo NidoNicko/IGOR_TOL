@@ -1,0 +1,5 @@
+owner = TOL
+controller = TOL
+add_core = TOL
+trade_goods = grain
+life_rating = 35

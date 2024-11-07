@@ -1,0 +1,6 @@
+trade_goods = grain
+life_rating = 35
+owner = NEJ
+controller = NEJ
+add_core = NEJ
+1861.1.1 = { controller = TUR owner = TUR } 

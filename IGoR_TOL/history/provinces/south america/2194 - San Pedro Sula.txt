@@ -1,0 +1,6 @@
+owner = YUC
+controller = YUC
+add_core = YUC # add_core = HON
+trade_goods = fruit
+life_rating = 36
+1861.1.1 = { owner = HON controller = HON } 

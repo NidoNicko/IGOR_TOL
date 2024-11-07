@@ -1,0 +1,5 @@
+owner = BAD
+controller = BAD
+add_core = BAD
+trade_goods = coal
+life_rating = 35

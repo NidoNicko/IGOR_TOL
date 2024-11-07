@@ -1,0 +1,7 @@
+owner = MAD
+controller = MAD
+naval_base = 1
+trade_goods = fruit
+life_rating = 35
+colonial = 2
+add_core = MAD

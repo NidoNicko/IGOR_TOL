@@ -1,0 +1,7 @@
+trade_goods = cattle
+life_rating = 35
+colony = 2
+owner = DES
+controller = DES
+add_core = DES
+1861.1.1 = { colony = 0 } 

@@ -1,0 +1,7 @@
+owner = URU
+controller = URU
+add_core = URU
+trade_goods = sulphur
+life_rating = 36
+naval_base = 1
+1861.1.1 = { railroad = 1 } 

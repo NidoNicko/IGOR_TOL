@@ -1,0 +1,7 @@
+owner = CLM
+controller = CLM
+trade_goods = fruit
+life_rating = 36
+colonial = 2
+add_core = CLM
+1861.1.1 = { railroad = 1 } 

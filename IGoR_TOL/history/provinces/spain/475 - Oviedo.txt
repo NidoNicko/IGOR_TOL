@@ -1,0 +1,5 @@
+owner = LEO
+controller = LEO
+add_core = LEO
+trade_goods = coal
+life_rating = 35

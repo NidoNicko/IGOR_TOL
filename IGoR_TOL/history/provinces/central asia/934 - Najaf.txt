@@ -1,0 +1,5 @@
+add_core = PER
+trade_goods = fruit
+life_rating = 35
+owner = PER
+controller = PER

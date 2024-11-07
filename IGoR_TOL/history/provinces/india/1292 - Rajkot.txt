@@ -1,0 +1,5 @@
+owner = VEN
+controller = VEN
+add_core = HND
+trade_goods = cotton
+life_rating = 30

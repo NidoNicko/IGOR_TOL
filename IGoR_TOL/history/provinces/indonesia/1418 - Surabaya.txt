@@ -1,0 +1,11 @@
+owner = SCO
+controller = SCO
+add_core = JAV
+#add_core = INO
+trade_goods = sulphur
+life_rating = 30
+colonial = 2
+1861.1.1 = {
+	naval_base = 2
+}
+

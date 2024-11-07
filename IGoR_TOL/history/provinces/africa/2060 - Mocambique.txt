@@ -1,0 +1,7 @@
+owner = MAD
+controller = MAD
+trade_goods = cotton
+life_rating = 35
+colonial = 2
+naval_base = 1
+add_core = MAD

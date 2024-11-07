@@ -1,0 +1,4 @@
+owner = VEN
+controller = VEN
+trade_goods = grain
+life_rating = 30

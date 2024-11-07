@@ -1,0 +1,6 @@
+owner = CLM
+controller = CLM
+trade_goods = grain
+life_rating = 36
+colonial = 2
+add_core = CLM
