@@ -172,7 +172,7 @@
 	}
 
 	farmers = {
-		culture = sami
+		culture = swedish
 		religion = protestant
 		size = 2000
 	}
@@ -610,7 +610,7 @@
 #Malmo (312000/77000 POPS)
 334 = {
 	aristocrats = {
-		culture = swedish
+		culture = danish
 		religion = protestant
 		size = 750
 	}
@@ -622,9 +622,15 @@
 	}
 
 	artisans = {
+		culture = danish
+		religion = protestant
+		size = 2062
+	}
+	
+	artisans = {
 		culture = swedish
 		religion = protestant
-		size = 3750
+		size = 1688
 	}
 
 	soldiers = {
@@ -634,15 +640,21 @@
 	}
 
 	farmers = {
+		culture = danish
+		religion = protestant
+		size = 41475
+	}
+
+	farmers = {
 		culture = swedish
 		religion = protestant
-		size = 69125
+		size = 27650
 	}
 }
 #Karlskrona (259000/64750 POPS)
 335 = {
 	aristocrats = {
-		culture = swedish
+		culture = danish
 		religion = protestant
 		size = 625
 	}
@@ -666,9 +678,13 @@
 	}
 
 	farmers = {
+		culture = danish
+		religion = protestant
+		size = 33625
+	}
+	farmers = {
 		culture = swedish
 		religion = protestant
-		size = 60625
+		size = 27000
 	}
-
 }

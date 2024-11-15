@@ -148,3 +148,55 @@ italian = {
 
 	union = ITA
 }
+
+scandinavian = {
+	leader = european
+	unit = SwedishGC
+	swedish = {
+		color = { 20 40 160}
+		first_names = { Albrecht Alexander Arnold August Axel Baltzar Carl Christofer Didrik Edvard
+		Elias Emil Erik Esaias Fabian Frans Fredrik Gunnar Gustav Henrik
+		Jakob Jesper Johan Julius Knut Lars Ludvig Magnus Michael Nikolaus
+		Nils Olof Oscar Per Rudolf Sten Theodor Verner Viktor Vilhelm }
+
+		last_names = { Abelin Bernardotte Bildt Björnstjerna Brahe Brakenhielm Breitholtz Chrsiterson Crusebjörn Dyrssen
+		Ehnemark Ehrenstam Gyllengranat Gyndestolpe Ingelman Leijonhufvud Lindman Mörner Nordenskiöld "Palanger af Vega"
+		Palmstierna Peyron Rappe Reuterskiöld Rosensvärd Ryding Sprengtportem Ström Taube Tawast
+		Thörnell Thulstrup Tingsten Ulner Virgin "von Essen" "von Hohenhausen" "von Otter" "von Platen" Weidenhielm }
+	}
+	danish = {
+		color = { 220 40 40}
+		first_names = { Aage Adam Albert Anders Asmund Axel Bent Carl Charles Christen Christian Edvard Edvin
+		Enevold Erik Ernst Folke Frederik Georg Gregers Gunnar Gustav Hagbard Hannibal Hans Harald Henrik Herman Hugo Ivar Immanuel
+		Jacob Jens Johan Johannes Julius Knud Ludvig Magnus Michael Niels Olav Otto Osvald Oktavius
+		Peder Poul Sigurd Sven Søren Tage Thomas Thorvald Ukrik Valdemar Vilfred Vilhelm }
+
+		last_names = { Ahlefeldt Andersen Asp-Persson Berger Bille Bielke Bonde Bl�cher-Altona Carlsen Castenschiold Clauson-Kaas Dannemand Danneskjold-Samso "de Meza" "de Cr�vecur" Eberlin "Fabritius de Tengnagel" Falsen Falstring
+		Folsach Garde G�ntelberg Grodtschilling Griss Gyldenfeldt Haack Hambro Haxthausen Hedemann Hoppe Juul Jyde Klauman Krogh Laessoe
+		"Le Normand de Bretteville" Leuenbach Lovenbalk Marselis Marstrand Meier Morgenstierne Mylius Neergaard Obelitz Oxholm Pretorius Quaade Rantzau Reventlow Rosenkrantz Sand Schack-Schackenborg
+		Stemman Suenson "Suzannet de la Forest" Thygeson Trampe Urne "von Gl�cksburg" "von Holstein" "von Oldenburg" Wedel-Heinen Zytphen-Adeler }
+	}
+	norwegian = {
+		color = { 140 20 140}
+		first_names = { Alfred Adrian Arne Bernt Bjorn Carl Caspar Christian Christopher Cort
+		Einar Elias Fredrik Georg Gerhard Gustav Haakon Hans Harald Herman
+		Johan Jorgen Ludvig Nils Ogmund Olav Osvald Otto Peter Sigurd }
+
+		last_names = { Adeler Balchen Berg Bloch Borresen Bratzland Brentzon Dhal Egge Fleicher
+		Frisvold H�konarson Hansen Hund Kaldager Konow Lambrechts Morgenstierne Munthe Petersen
+		Rye Sissener Skjalgsson Tambarskjelve "von Holstein-Gl�cksburg" "von Klenow" Wedel-Jarlsberg Wiborg With Zeiner-Gundersen }
+	}
+	finnish = {
+		color = { 220 220 220}
+		first_names = { Aatto Akseli Aleksanteri Anders Aukusti Edvard Eemil Erkki Erno Fabian
+		Fredrik Fridolf Georg Gösta Harald Hjalmar Hugo Johannes Juho Kaarlo
+		Kurt Lars Martti Mikko Paavo Petteri Rudolf Väinö Viktor Vilho }
+
+		last_names = { Airo Alopaeus Aspara Cajander Ehrnrooth Heinrichs Heiskanen Holsti Ignatius Järnefält
+		Linder Mannerheim Multamäki Nenonen Oesch Öquist Österman Paasikivi Raappana Ramsay
+		Sihvo Siilasvuo Talvela Thesleff Tujulin Tuompo "von Hesse-Kassel" Walden Wallenius Wetzer }
+		radicalism = 5
+	}
+
+	union = SCA
+}

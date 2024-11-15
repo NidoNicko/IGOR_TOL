@@ -91,7 +91,7 @@
 	}
 
 	farmers = {
-		culture = sami
+		culture = finnish
 		religion = protestant
 		size = 500
 	}
@@ -161,37 +161,37 @@
 	}
 
 	aristocrats = {
-		culture = russian
+		culture = finnish
 		religion = orthodox
 		size = 50
 	}
 
 	bureaucrats = {
-		culture = russian
+		culture = finnish
 		religion = orthodox
 		size = 150
 	}
 
 	officers = {
-		culture = russian
+		culture = finnish
 		religion = orthodox
 		size = 50
 	}
 
 	clergymen = {
-		culture = russian
+		culture = finnish
 		religion = orthodox
 		size = 25
 	}
 
 	artisans = {
-		culture = russian
+		culture = finnish
 		religion = orthodox
 		size = 50
 	}
 
 	soldiers = {
-		culture = russian
+		culture = finnish
 		religion = orthodox
 		size = 100
 	}

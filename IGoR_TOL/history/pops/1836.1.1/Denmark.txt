@@ -2,25 +2,25 @@
 #Torshavn (7000/1750 POPS)
 253 = {
 	bureaucrats = {
-		culture = danish
+		culture = norwegian
 		religion = protestant
 		size = 15
 	}
 
 	clergymen = {
-		culture = danish
+		culture = norwegian
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = danish
+		culture = norwegian
 		religion = protestant
 		size = 135
 	}
 
 	farmers = {
-		culture = danish
+		culture = norwegian
 		religion = protestant
 		size = 1575
 	}
@@ -357,13 +357,13 @@
 	}
 
 	artisans = {
-		culture = ashkenazi
+		culture = danish
 		religion = jewish
 		size = 1100
 	}
 
 	artisans = {
-		culture = north_german
+		culture = danish
 		religion = protestant
 		size = 1100
 	}
