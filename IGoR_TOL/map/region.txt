@@ -389,31 +389,31 @@ ENG_2092 = { 2092 2093 2558 2094 2095 } #Northern Cape
 
 ENG_296 = { 296 299 297 298 419 } #Southwest England
 
-ENG_277 = { 277 278 279 285 304 } #Northwest England
+ENG_277 = { 277 278 285 304 } #Northwest England
 
-ENG_273 = { 273 274 275 276 } #Wales
+ENG_273 = { 273 274 275 276 286 } #Wales
 
-ENG_280 = { 280 281 282 283 } #Northeast England
+ENG_280 = { 281 282 283 } #Northeast England
 
-ENG_266 = { 266 267 268 } #Highlands
+ENG_266 = { 266 267 268 270 } #Highlands
 
-ENG_284 = { 284 286 287 288 289 290 } #Midlands
+ENG_284 = { 284 287 288 289 290 } #Midlands
 
 ENG_291 = { 291 292 293 } #Eastern Counties
 
-ENG_301 = { 301 302 } #Sussex-Kent
+ENG_301 = { 300 301 302 } #Sussex-Kent
 
-ENG_300 = { 300 294 303 295 } #Southeast England
+ENG_300 = { 294 303 295 } #Southeast England
 
-ENG_271 = { 271 269 270 272 } #Lowlands
+ENG_271 = { 271 269 272 279 280 } #Lowlands
 
-ENG_254 = { 254 255 256 } #Ulster
+ENG_254 = { 254 255 256 257 } #Ulster
 
-ENG_260 = { 260 261 262 } #Munster
+ENG_260 = { 260 261 262 265 } #Munster
 
-ENG_258 = { 258 259 257 } #Connacht
+#ENG_258 = { 258 259 257 } #Connacht
 
-ENG_264 = { 263 264 265 } #Leinster
+ENG_264 = { 263 264 258 259 } #Leinster
 
 FRA_461 = { 461 462 463 468 }
 
