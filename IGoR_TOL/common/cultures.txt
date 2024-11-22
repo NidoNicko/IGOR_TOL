@@ -366,3 +366,15 @@ east_asian = {
 	}
 
 }
+
+indo_iranian = {
+	leader = indian
+	unit = IndianGC
+	hindustani = {
+		color = {54 129 160}
+		first_names = { Lokendra Raghuraj Vijay Vishvanath Pheran Jugal Parbhu Narayan Ishvari Udit Prasan Mahip Maharshi Mahavira Ashtravakra Chanakya Ashoka Samudragupta }
+
+		last_names = { Singh Valmiki Janak Jarasandh Mishra }
+	}
+
+}
