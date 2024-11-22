@@ -3,115 +3,115 @@
 #Manila (780000/195000 POPS)
 1455 = {
 	aristocrats = {
-		culture = spanish
+		culture = konketsu
 		religion = catholic
 		size = 200
 	}
 
 	bureaucrats = {
-		culture = spanish
+		culture = konketsu
 		religion = catholic
 		size = 400
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = konketsu
 		religion = catholic
 		size = 250
 	}
 
 	artisans = {
-		culture = spanish
+		culture = konketsu
 		religion = catholic
 		size = 1050
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = konketsu
 		religion = catholic
 		size = 100
 	}
 
 	aristocrats = {
-		culture = filipino
+		culture = konketsu
 		religion = catholic
 		size = 1250
 	}
 
 	bureaucrats = {
-		culture = filipino
+		culture = konketsu
 		religion = catholic
 		size = 450
 	}
 
 	clergymen = {
-		culture = filipino
+		culture = konketsu
 		religion = catholic
 		size = 750
 	}
 
 	artisans = {
-		culture = filipino
+		culture = konketsu
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = filipino
+		culture = konketsu
 		religion = catholic
 		size = 10000
 	}
 
 	artisans = {
-		culture = filipino
+		culture = konketsu
 		religion = catholic
 		size = 9000
 	}
 
 	soldiers = {
-		culture = filipino
+		culture = konketsu
 		religion = catholic
 		size = 4000
 	}
 
 	farmers = {
-		culture = filipino
+		culture = konketsu
 		religion = catholic
 		size = 136550
 	}
 
 	artisans = {
-		culture = nanfaren
+		culture = konketsu
 		religion = catholic
 		size = 1200
 	}
 
 	farmers = {
-		culture = nanfaren
+		culture = konketsu
 		religion = catholic
 		size = 800
 	}
 
 	clergymen = {
-		culture = malay
+		culture = konketsu
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = malay
+		culture = konketsu
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = malay
+		culture = konketsu
 		religion = catholic
 		size = 200
 	}
 
 	farmers = {
-		culture = malay
+		culture = konketsu
 		religion = catholic
 		size = 17725
 	}
@@ -119,55 +119,55 @@
 #Vigan (608000/152000 POPS)
 1456 = {
 	aristocrats = {
-		culture = filipino
+		culture = konketsu
 		religion = catholic
 		size = 1100
 	}
 
 	clergymen = {
-		culture = filipino
+		culture = konketsu
 		religion = catholic
 		size = 625
 	}
 
 	artisans = {
-		culture = filipino
+		culture = konketsu
 		religion = catholic
 		size = 7350
 	}
 
 	soldiers = {
-		culture = filipino
+		culture = konketsu
 		religion = catholic
 		size = 1500
 	}
 
 	farmers = {
-		culture = filipino
+		culture = konketsu
 		religion = catholic
 		size = 134525
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = konketsu
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = konketsu
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = konketsu
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = konketsu
 		religion = catholic
 		size = 6650
 	}
@@ -175,55 +175,55 @@
 #Legazpi (564000/141000 POPS)
 1457 = {
 	aristocrats = {
-		culture = filipino
+		culture = konketsu
 		religion = catholic
 		size = 1100
 	}
 
 	clergymen = {
-		culture = filipino
+		culture = konketsu
 		religion = catholic
 		size = 625
 	}
 
 	artisans = {
-		culture = filipino
+		culture = konketsu
 		religion = catholic
 		size = 6500
 	}
 
 	soldiers = {
-		culture = filipino
+		culture = konketsu
 		religion = catholic
 		size = 1350
 	}
 
 	farmers = {
-		culture = filipino
+		culture = konketsu
 		religion = catholic
 		size = 122525
 	}
 
 	clergymen = {
-		culture = malay
+		culture = konketsu
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = malay
+		culture = konketsu
 		religion = catholic
 		size = 500
 	}
 
 	soldiers = {
-		culture = malay
+		culture = konketsu
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = malay
+		culture = konketsu
 		religion = catholic
 		size = 8350
 	}
@@ -231,55 +231,55 @@
 #Mindoro (224000/56000 POPS)
 1458 = {
 	aristocrats = {
-		culture = filipino
+		culture = konketsu
 		religion = catholic
 		size = 400
 	}
 
 	clergymen = {
-		culture = filipino
+		culture = konketsu
 		religion = catholic
 		size = 175
 	}
 
 	artisans = {
-		culture = filipino
+		culture = konketsu
 		religion = catholic
 		size = 2100
 	}
 
 	soldiers = {
-		culture = filipino
+		culture = konketsu
 		religion = catholic
 		size = 450
 	}
 
 	farmers = {
-		culture = filipino
+		culture = konketsu
 		religion = catholic
 		size = 38875
 	}
 
 	clergymen = {
-		culture = filipino
+		culture = konketsu
 		religion = sunni
 		size = 125
 	}
 
 	artisans = {
-		culture = filipino
+		culture = konketsu
 		religion = sunni
 		size = 750
 	}
 
 	soldiers = {
-		culture = filipino
+		culture = konketsu
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = filipino
+		culture = konketsu
 		religion = sunni
 		size = 11025
 	}

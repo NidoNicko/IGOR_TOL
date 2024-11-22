@@ -809,5 +809,43 @@
 		religion = mahayana
 		size = 5000
 	}
+}
 
+#Tanchon
+3285 = {
+	aristocrats = {
+		culture = korean
+		religion = placeholder
+		size = 1500
+	}
+
+	clergymen = {
+		culture = korean
+		religion = placeholder
+		size = 800
+	}
+
+	artisans = {
+		culture = korean
+		religion = placeholder
+		size = 4000
+	}
+
+	soldiers = {
+		culture = korean
+		religion = placeholder
+		size = 1100
+	}
+
+	farmers = {
+		culture = korean
+		religion = placeholder
+		size = 72600
+	}
+
+	slaves = {
+		culture = korean
+		religion = placeholder
+		size = 10000
+	}
 }
