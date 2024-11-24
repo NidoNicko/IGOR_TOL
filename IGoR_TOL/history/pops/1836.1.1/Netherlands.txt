@@ -549,55 +549,55 @@
 #Groningen (186600/46650 POPS)
 383 = {
     artisans = {
-        culture = dutch
+        culture = low_german
         religion = placeholder
         size = 375
     }
 
     aristocrats = {
-        culture = dutch
+        culture = low_german
         religion = placeholder
         size = 450
     }
 
     officers = {
-        culture = dutch
+        culture = low_german
         religion = placeholder
         size = 225
     }
 
     bureaucrats = {
-        culture = dutch
+        culture = low_german
         religion = placeholder
         size = 6000
     }
 
     clergymen = {
-        culture = dutch
+        culture = low_german
         religion = placeholder
         size = 300
     }
 
     artisans = {
-        culture = dutch
+        culture = low_german
         religion = placeholder
         size = 10500
     }
 
     soldiers = {
-        culture = dutch
+        culture = low_german
         religion = placeholder
         size = 6000
     }
 
     farmers = {
-        culture = dutch
+        culture = low_german
         religion = placeholder
         size = 53175
     }
 
     labourers = {
-        culture = dutch
+        culture = low_german
         religion = placeholder
         size = 1650
     }
@@ -605,86 +605,86 @@
 #Zwolle (238000/59500 POPS)
 384 = {
     aristocrats = {
-        culture = dutch
+        culture = low_german
         religion = placeholder
         size = 375
     }
 
     clergymen = {
-        culture = dutch
+        culture = low_german
         religion = placeholder
         size = 225
     }
 
     artisans = {
-        culture = dutch
+        culture = low_german
         religion = placeholder
         size = 2925
     }
 
     soldiers = {
-        culture = dutch
+        culture = low_german
         religion = placeholder
         size = 825
     }
 
     farmers = {
-        culture = dutch
+        culture = low_german
         religion = placeholder
         size = 32100
     }
 
     artisans = {
-        culture = dutch
+        culture = low_german
         religion = placeholder
         size = 75
     }
 
     farmers = {
-        culture = dutch
+        culture = low_german
         religion = placeholder
         size = 675
     }
 }
 3256 = {
     aristocrats = {
-        culture = dutch
+        culture = low_german
         religion = placeholder
         size = 375
     }
 
     clergymen = {
-        culture = dutch
+        culture = low_german
         religion = placeholder
         size = 225
     }
 
     artisans = {
-        culture = dutch
+        culture = low_german
         religion = placeholder
         size = 2925
     }
 
     soldiers = {
-        culture = dutch
+        culture = low_german
         religion = placeholder
         size = 825
     }
 
     farmers = {
-        culture = dutch
+        culture = low_german
         religion = placeholder
         size = 32100
     }
 
     artisans = {
-        culture = dutch
+        culture = low_german
         religion = placeholder
         size = 75
     }
 
     farmers = {
-        culture = dutch
+        culture = low_german
         religion = placeholder
         size = 675
     }
@@ -692,31 +692,31 @@
 #Leeuwarden (209200/52300 POPS)
 385 = {
     aristocrats = {
-        culture = dutch
+        culture = low_german
         religion = placeholder
         size = 450
     }
 
     clergymen = {
-        culture = dutch
+        culture = low_german
         religion = placeholder
         size = 412
     }
 
     artisans = {
-        culture = dutch
+        culture = low_german
         religion = placeholder
         size = 9000
     }
 
     soldiers = {
-        culture = dutch
+        culture = low_german
         religion = placeholder
         size = 1650
     }
 
     farmers = {
-        culture = dutch
+        culture = low_german
         religion = placeholder
         size = 67087
     }
@@ -724,37 +724,37 @@
 #Assen (80000/20000 POPS)
 386 = {
     aristocrats = {
-        culture = dutch
+        culture = low_german
         religion = placeholder
         size = 225
     }
 
     clergymen = {
-        culture = dutch
+        culture = low_german
         religion = placeholder
         size = 150
     }
 
     artisans = {
-        culture = dutch
+        culture = low_german
         religion = placeholder
         size = 1650
     }
 
     soldiers = {
-        culture = dutch
+        culture = low_german
         religion = placeholder
         size = 1650
     }
 
     farmers = {
-        culture = dutch
+        culture = low_german
         religion = placeholder
         size = 25125
     }
 
     farmers = {
-        culture = dutch
+        culture = low_german
         religion = placeholder
         size = 1650
     }
