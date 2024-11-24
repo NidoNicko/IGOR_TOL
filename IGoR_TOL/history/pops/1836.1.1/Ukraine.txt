@@ -287,25 +287,25 @@
 #Uzgorod (856000/214000 POPS) #Part of Ukraine today
 950 = {
 	clergymen = {
-		culture = ukrainian
+		culture = slovak
 		religion = orthodox
 		size = 850  
 	}
 
 	artisans = {
-		culture = ukrainian
+		culture = slovak
 		religion = orthodox
 		size = 4600
 	}
 
 	soldiers = {
-		culture = ukrainian
+		culture = slovak
 		religion = orthodox
 		size = 900  
 	}
 
 	farmers = {
-		culture = ukrainian
+		culture = slovak
 		religion = orthodox
 		size = 85650  
 	}
@@ -335,127 +335,127 @@
 	}
 
 	aristocrats = {
-		culture = hungarian
+		culture = slovak
 		religion = catholic
 		size = 4250  
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = slovak
 		religion = catholic
 		size = 425  
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = slovak
 		religion = catholic
 		size = 2150
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = slovak
 		religion = catholic
 		size = 450 
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = slovak
 		religion = catholic
 		size = 35725  
 	}
 
 	clergymen = {
-		culture = hungarian
+		culture = slovak
 		religion = protestant
 		size = 400  
 	}
 
 	artisans = {
-		culture = hungarian
+		culture = slovak
 		religion = protestant
 		size = 2250
 	}
 
 	soldiers = {
-		culture = hungarian
+		culture = slovak
 		religion = protestant
 		size = 400  
 	}
 
 	farmers = {
-		culture = hungarian
+		culture = slovak
 		religion = protestant
 		size =  38950   
 	}
 
 	clergymen = {
-		culture = ashkenazi
+		culture = slovak
 		religion = jewish
 		size = 75  
 	}
 
 	artisans = {
-		culture = ashkenazi
+		culture = slovak
 		religion = jewish
 		size = 800
 	}
 
 	soldiers = {
-		culture = ashkenazi
+		culture = slovak
 		religion = jewish
 		size = 50 
 	}
 
 	farmers = {
-		culture = ashkenazi
+		culture = slovak
 		religion = jewish
 		size = 3075    
 	}
 
 	clergymen = {
-		culture = south_german
+		culture = slovak
 		religion = catholic
 		size = 25  
 	}
 
 	artisans = {
-		culture = south_german
+		culture = slovak
 		religion = catholic
 		size = 75
 	}
 
 	soldiers = {
-		culture = south_german
+		culture = slovak
 		religion = catholic
 		size = 25  
 	}
 
 	farmers = {
-		culture = south_german
+		culture = slovak
 		religion = catholic
 		size = 875  
 	}
 
 	clergymen = {
-		culture = romanian
+		culture = slovak
 		religion = orthodox
 		size = 125  
 	}
 
 	artisans = {
-		culture = romanian
+		culture = slovak
 		religion = orthodox
 		size = 750
 	}
 
 	soldiers = {
-		culture = romanian
+		culture = slovak
 		religion = orthodox
 		size = 150  
 	}
 
 	farmers = {
-		culture = romanian
+		culture = slovak
 		religion = orthodox
 		size = 13975
 	}
