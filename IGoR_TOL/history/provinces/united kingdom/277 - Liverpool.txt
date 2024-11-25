@@ -1,6 +1,6 @@
-owner = SCO
-controller = SCO
-add_core = SCO
+owner = ENG
+controller = ENG
+add_core = ENG
 trade_goods = fish
 life_rating = 42
 railroad = 1
