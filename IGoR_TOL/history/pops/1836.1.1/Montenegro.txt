@@ -21,25 +21,25 @@
 	}
 
 	clergymen = {
-		culture = albanian
+		culture = serb
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = albanian
+		culture = serb
 		religion = sunni
 		size = 50
 	}
 
 	soldiers = {
-		culture = albanian
+		culture = serb
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = albanian
+		culture = serb
 		religion = sunni
 		size = 825
 	}
@@ -65,31 +65,31 @@
 	}
 
 	aristocrats = {
-		culture = bosniak
+		culture = serb
 		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
-		culture = bosniak
+		culture = serb
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = bosniak
+		culture = serb
 		religion = sunni
 		size = 75
 	}
 
 	soldiers = {
-		culture = bosniak
+		culture = serb
 		religion = sunni
 		size = 125
 	}
 
 	farmers = {
-		culture = bosniak
+		culture = serb
 		religion = sunni
 		size = 5825
 	}
@@ -156,59 +156,59 @@
 	}
 
 	aristocrats = {
-		culture = bosniak
+		culture = serb
 		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
-		culture = bosniak
+		culture = serb
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = bosniak
+		culture = serb
 		religion = sunni
 		size = 400
 	}
 
 	soldiers = {
-		culture = bosniak
+		culture = serb
 		religion = sunni
 		size = 150
 	}
 
 	farmers = {
-		culture = bosniak
+		culture = serb
 		religion = sunni
 		size = 3650
 	}
 }
-#Dalmatia Region (64000) #see Croatia.txt for balance of region 
+#Dalmatia Region (64000) #see serbia.txt for balance of region 
 #under the rule of Austria in 1836  
 #Kotor (64000/16000 POPS) 
 2582 = {
 	clergymen = {
-		culture = croat
+		culture = serb
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = croat
+		culture = serb
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = croat
+		culture = serb
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = croat
+		culture = serb
 		religion = catholic
 		size = 4650
 	}

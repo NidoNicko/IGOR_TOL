@@ -558,4 +558,56 @@ baltican = {
 		Leiko Loskis Maters Matisons Meierovics Mihelssons Milenbahs Millers Needra Ozolins
 		Petrovs Plieksans Pumpurs Rothko Simanis Stucka Tumins Ulmanis Veidenbaums }
 	}
+
+}
+south_slavic = {
+	leader = european
+	unit = AustriaHungaryGC
+	illyrian = {
+		color = {140 140 190}
+		first_names = { Andrija Antun Bazilije Breno Dragutin Dzivo Filip Franjo Gaspar Ivan Janko Jero Jerolim Josip Juraj Karlo Kresimir Krsto Ljudevit Lucijan Luka Marijan Marin 		Matej Matko Maximiliam Medo Mihajlo Mirko Miroslav Niko Nikola Orsat Pavle Petar Rafo Sebastijan Sismundo Slavko Stjepan Svetoslav Svetozar Teo Teodor Toma Tomislav Vicko 		Vladimir Vlaho Zlatan }
+
+		last_names = { Alapic Bakaric Bettera Bilic Blazevic Bondic Boroevic Bosnajk Bunic Crnkovic Cuvaj Draskovic Dzamanjic Eltz Erd√∂dy Frankopan Gaj Getaldic Gradic Gregoric 		Gucetic Gundulic Haulik Jelacic Kabuzic Keglevic Kostrencic Krstulovic Lagimja Mazuranic Mihailovic Mohorovicic Mrazovic Natali Nazor Njegovan Palecek Pejacevic Philippovic 		Preradovic Pucic Ranjina Sarkotic Sokcevic Sorkocevic Stankovaci Tomasic Tomlejnovic Vakanovic Vlasic }
+	}
+	serb = {
+		color = {140 0 0}
+		first_names = { Alaksandar Blagoje Bozidar Branko Danilo Dejan Djordje Dragan Dragisa Dragoljub Dragutin Draza Dusan Gavrilo Goran Janko Jovan Koca Kosta Krsto Ljubisa 		Mihailo Milan Miliutin Milivoje Milojko Milos Miodrag Mirko Miroslav Momcilo Nebojsa Nikola Pavle Peko Petar Radomir Ratko Sava Slobodan Stepa Stojan Veljko Vaselien 			Vladimir Vojislav Zivojin Zivota Zoran Zvezdan }
+
+		last_names = { Adzic Arandelovic Belimarkovic Blaznacac Bojovic Bozanovic Bozinovic Brankovic Damjanic Dapcevic Dragutinovic Grujic Hadzilic Horvatovic Isakovic Jankovic 		Jokic Jovanovic Kadijevic Karadjordjevic Lesjanin Ljubicic Maric Mihailovic Miliutinovic Miloradovic Misic Nad Nedic Novak Obrenovic Ojdanic Panic Paskas Pavkovic Pesic 		Petrovic Popovic Putnik Radulovic Rasic Sijan Simovic Sokolovic Stepanovic Vasiljevic Veric Vojvodic Vukotic Zivkovic }
+	}
+	bulgarian = {
+		color = {65 150 100}
+		first_names = { Aleksandar Andrey Asen Atanas Atila Bogdan Boncho Boris Damyan Dimitar Dobri Ferdinand Georgi Hristo Ilya Ivan Kalin Kardam Kimon Kiril Kliment Konstantin 		Krastyu Leonid Mihail Nikifor Niloa Pencho Petar Petko Petur Pravoslav Racho Radko Radoy Sava Simeon Sotir Stanislav Stanko Stefan Stiliyan Stoyu Teodosi Todor Trifon Valko 		Vasil Velizar Vulko }
+
+		last_names = { Agura Balabanov Balkanski Battemberg Blaskov Boyadzhiev Bradistilov Charakchiev Daskalov Dikov Dimitriev Draganov Fichev Georgiev Hesapchiev Ilyev Ivanov 		Kirkov Kovachev Krayonski Kutinchev Lazarov Lukov Marinkov Marinov Mutkorov Naydenov Nazlamov Nikiforov Nikolaev Pakov Petrov Radev Saksokoburggotski Savov Sirakov Solarov 		Stoyanov Tenev Todorov Tsaklev Valkov Valnarov Vasilev Vazov Velchev Zafirov Zhekov Zlatarev Zlatev }
+	}
+	slovene = {
+		color = {0 90 128}
+		first_names = { Alenka Alfonz Alfred Andrej Anton Avgust Bartolomej Blaz Bojan Boris Bostjian Bozidar Ciril Danilo Demeter Drago Dusan Franc Gregorij Ivan Ivo Janez Jernej 		Joze Jurij Karpo Lado Leon Lojze Miha Milan Mladen Odilo Pino Rado Radovan Rudolf Slavko Slavoj Stane Stanko Tomasz Toncka Tone Viktor Vilko Vladimir Vladko Vojko Zeljko }
+
+		last_names = { Arnic Avbelj Avsenik Bajuk Bitenc Cankar Cec Cernigoj Czipott Dolar Drolc Duletic Globocnik Gobec Godina Golob Haus Hladnik Ivanek Kantuser Kidric Komar 		Kopitar Kraigher Lipovsek Lipuscek Macek Maister Marinko Miklosic Mravlajk Pengov Pesek Peterle Pirec Plecnik Rozman Rupnik Sarh Srebrnic Tomazic Tomsic Urbancic Vega "Von 		Windisch-Gr√§tz" Zagar Zerjal Zizke Zornada Zupancic }
+	}
+	
+}
+pan_hungarian = {
+	leader = european
+	unit = AustriaHungaryGC
+	hungarian = {
+		color = { 225 255 195 }
+		first_names = { Alajos Albert √Ålmos Anaszt·z Andr·s Arisztid AurÈl BÈla Benedek BÈni Bertalan D·niel D·vid Edv·rd √âli·s Erno Ferencz G·bor G·briel G·sp·r Gy√∂rgy Gyula 		Ign·c Imre Istv·n Izidor J·nos JÛzsef "JÛzsef Manes" K·lm·n K·roly Katalin Kelemen Krisztian Lajos L·szlÛ ManÛ Mih·ly MÛr MyklÛs √ñd√∂n OttÛ PÈter Rafael S·ndor Simon 			Tivadar Vilmos Vir·g Zsigmond }
+
+		last_names = { Andr·ssy Apponyi Aulich Bacher Baross Batthy·ny Be√∂thy Bothmer Damjanich Dessewffy Egressy "ErÈnyi Ullmann" Farkas "Frakash·zi Fischer" Goldziher Gungl 		Hauszmann Heller Horthy IzsÛ Joseffy Katona Kaufman KÈler Kiss Knezich Kogutowicz Lahner L·z·r Leiningen-Westerburg Lichtenstein Liszt Miksz·th Moln·r Nagy-S·ndor √ñ			sterreicher Ottinger Perczel Poeltenberg RemÈnyi Rohr Schweidel SzÈchenyi Szemere Szl·vic Tersztyansky T√∂r√∂k Varga VÈcsey "von Benedek" }
+	}
+
+}
+pan_romanian = {
+	leader = european
+	unit = AustriaHungaryGC
+	romanian = {
+		color = {255 195 35}
+		first_names = { Adrian Alexandru Andrei Anton Artur Bogdan Carol Cezar Constantin Constin Cosmin Daniel Dumitru Emanuel Eremia Eugen Ferdinand Flaviu Florea Gheorghe 			Grigore Henric Horatiu Iacob Ilie Ioan Ion "Ion Emanuel" Iosif Iulian Iuliu Laurentiu Leontin Luca Lucian Mihai Mircea Nicolae Ovidiu Petru Radu Sergiu Silviu Simion Stefan 		Valeriu Vasile Victor Vintila Vlad }
+
+		last_names = { Angelescu Antonescu Argetoianu Averescu Baldescu Barozzi Berindei Cernat Christecu Cihoski Ciuperca Coanda Crainiceanu Critescu Culcer Cuza "de Hohenzollern" 		Dona Dragalina Dumitrescu Falcoianu Florescu Gardescu Grigorescu Froza Harjeu Holban Iancovescu Iliasevici Iliescu Ionascu Ionescu Ionitiu Koslinski Lahovary Lupescu 			Mardarescu Murgescu Poenaru Prezan Salajan Samsonovici Schitiu Scodrea Slaniceanu Steflea Tatarascu Tenescu Vaitoianu Zottu }
+	}
+
 }

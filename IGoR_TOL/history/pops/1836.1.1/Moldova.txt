@@ -45,49 +45,49 @@
 	}
 
 	clergymen = {
-		culture = ashkenazi
+		culture = romanian
 		religion = jewish
 		size = 75     
 	}
 
 	artisans = {
-		culture = ashkenazi
+		culture = romanian
 		religion = jewish
 		size = 1600
 	}
 
 	soldiers = {
-		culture = ashkenazi
+		culture = romanian
 		religion = jewish
 		size = 75  
 	}
 
 	farmers = {
-		culture = ashkenazi
+		culture = romanian
 		religion = jewish
 		size = 6250    
 	}
 
 	clergymen = {
-		culture = turkish #gagauz
+		culture = romanian #gagauz
 		religion = orthodox
 		size = 75  
 	}
 
 	artisans = {
-		culture = turkish
+		culture = romanian
 		religion = orthodox
 		size = 250
 	}
 
 	soldiers = {
-		culture = turkish
+		culture = romanian
 		religion = orthodox
 		size = 50  
 	}
 
 	farmers = {
-		culture = turkish
+		culture = romanian
 		religion = orthodox
 		size = 4625  
 	}
@@ -125,25 +125,25 @@
 	}
 
 	clergymen = {
-		culture = ashkenazi
+		culture = romanian
 		religion = jewish
 		size = 75     
 	}
 
 	artisans = {
-		culture = ashkenazi
+		culture = romanian
 		religion = jewish
 		size = 1800
 	}
 
 	soldiers = {
-		culture = ashkenazi
+		culture = romanian
 		religion = jewish
 		size = 75  
 	}
 
 	farmers = {
-		culture = ashkenazi
+		culture = romanian
 		religion = jewish
 		size = 7050   
 	}
