@@ -1,4 +1,4 @@
-capital = 300
+capital = 273
 primary_culture = welsh
 religion = placeholder
 government = hms_government
@@ -76,7 +76,7 @@ precision_work = yes
 consciousness = 3
 nonstate_consciousness = 1
 
-ruling_party = ENG_liberal
+ruling_party = generic_conservative
 last_election = 1835.2.6
 upper_house = {
 	fascist = 0

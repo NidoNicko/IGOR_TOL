@@ -356,7 +356,9 @@ D50		= "countries/D50.txt"
 
 #TOL specific TAGS;
 
-GRA     = "countries/GRA.txt"
-TOL     = "countries/TOL.txt"
-LEO     = "countries/LEO.txt"
-BSQ     = "countries/BSQ.txt"
+GRA     	= "countries/GRA.txt"
+TOL     	= "countries/TOL.txt"
+LEO     	= "countries/LEO.txt"
+BSQ     	= "countries/BSQ.txt"
+WHA		= "countries/Wales.txt"
+UOW		= "countries/Westminster.txt"

@@ -1,8 +1,5 @@
-capital = 300
-primary_culture = british
-culture = anglo_canadian
-culture = australian
-culture = maltese
+capital = 277
+primary_culture = english
 religion = placeholder
 government = hms_government
 plurality = 30

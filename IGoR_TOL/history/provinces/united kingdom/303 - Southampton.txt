@@ -1,6 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = ENG
+owner = UOW
+controller = UOW
+add_core = UOW
 trade_goods = fish
 life_rating = 35
 naval_base = 2

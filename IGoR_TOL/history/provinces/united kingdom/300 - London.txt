@@ -1,6 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = ENG
+owner = UOW
+controller = UOW
+add_core = UOW
 trade_goods = grain
 life_rating = 45
 fort = 1
