@@ -611,3 +611,42 @@ pan_romanian = {
 	}
 
 }
+east_slavic = {
+	leader = russian
+	unit = RussianGC
+	russian = {
+		color = {0 70 10}
+		first_names = { Aleksandr Alexei Andrei Anton Boris Dmitry Fyodor Gennady Giorgi Grigoriy Igor Ivan Kirill Konstantin Lavr Leonid Lev Maxim Mikhail Nikita Nikolai Oleg 		Pavel Pyotr Roman Semyon Sergei Valery Vasily Viktor Vladimir Vladislav Yegor Yevgeny Yur Vasiliy Ivan Dmitriy Yuriy Andrei Semen Fyodor Afanasiy Akim Aleksandr Alexei 		Anatoliy Arkadiy Dorofey Feodosiy Feofilakt Gavriil Innokentiy Iosif Lavrentiy Makariy Matveiy Mikhail Nazariy Onisim Pavel Prokopiy Pyotr Radomir Saveliy Sergei Terentiy 		Valeriy Yakim Yevgeniy Afanasiy Athanasius Alexandr Alexander Alexei Alexis Andrei Andrew Boris Briachislav Bretislaus Nikifor Daniil Daniel Davyd David Demid Dmitriy 			Demetrius Dobrynia Fedot Theodat Feodor Theodore Gavriil Gabriel Gleb Grigoriy Gregory Iakov Jacob Igor Iliya Ingvar Ingvar Ivan John Iziaslav Kirill Cyril Konstantin 			Constantine Koz'ma Cosma Lev Leo Matfei Matthew Mikhail Michael Mitrofan Mstislav Nikita Oleg Helge Pavel Paul Putiata Radoslav Rodislav Rogvolod Roman Rostislav Rurik 		Rurik Ruslan Simeon Simon Stanislav Stanislav Stepan Stephen Sudislav Svetozar Sviatopolk Svatopluk Sviatoslav Sviatoslav Terentiy Trifon Vasiliy Basil Vasilko Viacheslav 		Vladimir Vladimir Vladislav Vladislav Voislav Volodar Vseslav Vsevolod Vyshata Vysheslav Yaropolk Yaroslav Jaroslav Yefimiy Yelisey Yemelyan Emil Yeremey Yevstafiy Yuriy 		George Andrei Lubko Olgierd Bryachislav Vasiliy Svyatoslav Vladimir Izyaslav Vseslav Boris Aleksandr Adrian Afanasiy Daniil Dmitriy Dorofey Faddey Feodosiy Feofil Foma 		Fyodor Gavriil Grigoriy Igor Ivan Mikhail Naum Nikita Nikolai Pankrati Prokhor Pyotr Radoslav Ruslan Semen Serafim Sevastian Stanislav Timofeiy Varfolomeiy Vikentiy 			Yaroslav Mefodiy Ivan Dmitriy Yuriy Andrei Semen Boris Fyodor Oleg Afanasiy Akim Aleksandr Alexei Anatoliy Arkadiy Dorofey Feodosiy Feofilakt Gavriil Innokentiy Iosif 			Lavrentiy Makariy Matveiy Mikhail Nazariy Onisim Pavel Prokopiy Pyotr Radomir Saveliy Sergei Terentiy Valeriy Yakim Yevgeniy Yaroslav Yaropolk Vyacheslav Vsevolod Igor 		Izyaslav Rostislav Vladimir Mstislav Gleb Roman Ryurik Svyatoslav Ingvar Stanislav Daniil Nikifor }
+
+		last_names = { Alexseyev Antonov Azarov Badanov Brusilov Budyonny Chibisov Denikin Dragomirov Frolov Golivin Grishin Gurko Ivanov Konev Konstantinov Kornilov Kolchak 			Kuropatkin Lazarev Makarov Menshikov Nakhimov Nebogatov Nikolaevich Ostrovsky Pavlov Putyatin Romanov Rozhestvensky Skobelev Shuvalov Surkov Tukhachevsky Yegorov Yudenich 		Vorontsov Voroshilov Zavoyko Adashev Apraxine Atlasov Basmanov Baryatiski Bibikov Beketov Baranov Chernigovets Chelyuskin Chuiski Dolgorukov Dubenski Dezhnev Ermolov Fermor 		Godunov Golitsyn Gagarin Glinski Kasimovskiy Kurbski Khovanski Kutuzov Koltsov-Mosalski Khabarov Mikulinski Menshikov Minih Mansurov Moskvitin Ovchina-Obolenski Osterman-		Tolstoy Orlov Pozharski Potemkin Petrov Poyarkov Patrikeev Romodanovski Rumyantsev Repnin Rebrov Shuiski Sheremetev Skopin Shein Soltikov Spiridof Senyavin Stroganov 			Semenov Tottleben "de Tolly" Tomasov Ushakov Vorotinski Vishnevetski Wittgenstein Yalichev Yermak Dorogobushsky Kashinsky Mikulinsky Telyatevsky Kholmsky Chernyatinsky 		Andomsky Beloselsky Vadbolsky Dyabrinsky Kargolomsky Kemsky Sugorsky Ukhtomsky Sheleshpansky Muromsky Pronsky Barabshin Brukathy Shuisky Glazaty Gorbaty Kirdyapin 			Nizhegorodsky Nogtew Skopin Ivanov Travin Tolbuzin Rozhestvensky Sapogov Vsevolozhsky Gubastov Danilov Dmitriev Dobrynsky Yeropkin Apraksin Bagration "Barclay de Tolly" 		Bodisko Boruffsin Kaibula Kamenski Kozlov Menshikov Mstislavski "Ostermann Tolstoy" Paletsky Raevsky Schuvalov Sheremetev ShchenyatvevTiesenhusen Vasilyevich "von 			Buxhoevden" "von Knorring" "von Lascy" Vitebsky Izyaslavsky Dursky Galisky Borovsky Vereisky Volotsky Galitsky Mozhaisky Uglisky Shemyakin Satin Aladyin Beznosov Bokeev 		Burukhin Vnukov Korobyin Zabolotsky Dalmatov Kisleevsky Travin Tsyplyatev Shukalovsky Alabyshe Alenkin Belsky Velikogagin Golygin Dulov Deyev Zhirovy Zaozersky Zasekin 		Zubaty Kubensky Kurbsky Mulozhsky Mortkin Okhlyabinin Pnekov Siseev Sitsky Sontsov Sudsky Temnosiny Troekurov Ukhorsky Ushaty Yukhotsky Shchetinin Burmatov Vilesov Volegov 		Dozmorov Zerov Ichetkin Kanev Kachesov Koinov Kolegov Kochev Kykin Kynev Kynkurogov Kyrnyshev Kyrov Kysov Kychanov Lyurov Michkin Moshev Oshev Oshkokov Porsin Purtov Rakin 		Rochev Ruchev Syuzev Cheskidov Yusev Kudymov Zyrianov }
+	}
+
+}
+ruthenian = {
+	leader = european
+	unit = EuropeanGC
+	ruthenyan = {
+		color = {83 102 46}
+		first_names = { Alexei Andrei Anton Arkadiy Borys Cyril Dmitro Fyodor Hryhoriy Ivan Lavr Leonid Lev Mikhail Mykola Nikita Oleksandr Pavel Petro Piotr Roman Ryhor Semyon 		Sergiy Stanislaw Uladzimir Valeriy Viktor Volodimir Vladislav Yuriy Andrukhovych Cheremshyna Dukhnovych Holovatskyi Hutsalo Khvylovy Kobylyanska Korniychuk Kostomarov 			Kulish Kvitka Marinina Palahniuk Pokalchuk Shashkevych Stefanyk Stelmakh Tobilevich Vovchok Vyshnia Zabara }
+
+		last_names = { Alexseyev Bezruchko "Bulak-Balachowicz" Chernyakhovsky Chibisov Dyachenko Gamula Grigoriev Hrekov Ivanenko Ivanov Kapustiansky Kolchak Kondratenko Leshchenko 		Leshchinskiy "Omelianovych-Pavlenko" Paskevich Petliura Radchenko Rozhestvensky Shevchenko Skoropadskyi Stefaniv Tymoshenko Vitovsky Zhauryd }
+	}
+
+}
+central_asian = {
+	leader = asian
+	unit = AsianGC
+	crimean = {
+		color = {40 30 60}
+		first_names = {	Asaf Baqi Galiaskar Ismail Makhmut  Musa Rustam Yusuf }
+		
+		last_names = { Amirkhanov Faysi Gizzat Ibragimov Kamal Khusainov Tinchurin Tukay Yanbayev}
+	}
+	 nogai = {
+		color = {0 161 222}
+		first_names = { Afaq Ahmed Arshad Bahayeddin Burhan Daud Hakim Husayin Kemal Maqsud Muhammad Musa Rashidin Satuq Timur Yaqub }
+
+		last_names = { Beg Khan }
+	}
+
+}

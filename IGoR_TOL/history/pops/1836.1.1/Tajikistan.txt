@@ -1,63 +1,63 @@
-#Mawarannahr Region (200000) #see Kazakhstan.txt, Uzbekistan.txt, Kirghizstan.txt and Turkmenistan.txt for balance of region 
+#Mawarannahr Region (200000) #see Kazakhstan.txt, nogaiistan.txt, Kirghizstan.txt and Turkmenistan.txt for balance of region 
 #under the rule of Kokand in 1836  
-#Khujand (200000/50000 POPS) #now part of Tajikistan  
+#Khujand (200000/50000 POPS) #now part of nogaiistan  
 1201 = {
 	aristocrats = {
-		culture = uzbek
+		culture = nogai
 		religion = sunni
 		size = 775
 	}
 
 	clergymen = {
-		culture = uzbek
+		culture = nogai
 		religion = sunni
 		size = 400
 	}
 
 	artisans = {
-		culture = uzbek
+		culture = nogai
 		religion = sunni
 		size = 2000
 	}
 
 	soldiers = {
-		culture = uzbek
+		culture = nogai
 		religion = sunni
 		size = 400
 	}
 
 	farmers = {
-		culture = uzbek
+		culture = nogai
 		religion = sunni
 		size = 36425
 	}
 
 	aristocrats = {
-		culture = tajik
+		culture = nogai
 		religion = sunni
 		size = 175
 	}
 
 	clergymen = {
-		culture = tajik
+		culture = nogai
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = tajik
+		culture = nogai
 		religion = sunni
 		size = 500
 	}
 
 	soldiers = {
-		culture = tajik
+		culture = nogai
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = tajik
+		culture = nogai
 		religion = sunni
 		size = 9150
 	}
@@ -67,31 +67,31 @@
 #Kulob (120000/30000 POPS)   
 1207 = {
 	aristocrats = {
-		culture = tajik
+		culture = nogai
 		religion = sunni
 		size = 575
 	}
 
 	clergymen = {
-		culture = tajik
+		culture = nogai
 		religion = sunni
 		size = 275
 	}
 
 	artisans = {
-		culture = tajik
+		culture = nogai
 		religion = sunni
 		size = 1450
 	}
 
 	soldiers = {
-		culture = tajik
+		culture = nogai
 		religion = sunni
 		size = 250
 	}
 
 	farmers = {
-		culture = tajik
+		culture = nogai
 		religion = sunni
 		size = 27450
 	}
@@ -99,61 +99,61 @@
 #Khorugh (92000/23000 POPS)   
 1208 = {
 	aristocrats = {
-		culture = tajik
+		culture = nogai
 		religion = sunni
 		size = 350
 	}
 
 	clergymen = {
-		culture = tajik
+		culture = nogai
 		religion = sunni
 		size = 175
 	}
 
 	artisans = {
-		culture = tajik
+		culture = nogai
 		religion = sunni
 		size = 850
 	}
 
 	soldiers = {
-		culture = tajik
+		culture = nogai
 		religion = sunni
 		size = 175
 	}
 
 	farmers = {
-		culture = tajik
+		culture = nogai
 		religion = sunni
 		size = 17450
 	}
 
 	aristocrats = {
-		culture = kirgiz
+		culture = nogai
 		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-		culture = kirgiz
+		culture = nogai
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = kirgiz
+		culture = nogai
 		religion = sunni
 		size = 175
 	}
 
 	soldiers = {
-		culture = kirgiz
+		culture = nogai
 		religion = sunni
 		size = 25
 	}
 
 	farmers = {
-		culture = kirgiz
+		culture = nogai
 		religion = sunni
 		size = 3650
 	}
