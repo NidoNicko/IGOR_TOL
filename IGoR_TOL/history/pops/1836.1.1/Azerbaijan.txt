@@ -3,25 +3,25 @@
 #Baku (76000/19000 POPS)
 1102 = {
 	bureaucrats = {
-		culture = russian
+		culture = azerbaijani
 		religion = orthodox
 		size = 40
 	}
 
 	clergymen = {
-		culture = russian
+		culture = azerbaijani
 		religion = orthodox
 		size = 5
 	}
 
 	artisans = {
-		culture = russian
+		culture = azerbaijani
 		religion = orthodox
 		size = 15
 	}
 
 	soldiers = {
-		culture = russian
+		culture = azerbaijani
 		religion = orthodox
 		size = 40
 	}
@@ -99,25 +99,25 @@
 	}
 
 	clergymen = {
-		culture = armenian
+		culture = azerbaijani
 		religion = orthodox
 		size = 10
 	}
 
 	artisans = {
-		culture = armenian
+		culture = azerbaijani
 		religion = orthodox
 		size = 740
 	}
 
 	clergymen = {
-		culture = sephardic
+		culture = azerbaijani
 		religion = jewish
 		size = 5
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = azerbaijani
 		religion = jewish
 		size = 245
 	}
@@ -185,31 +185,31 @@
 	}
 
 	aristocrats = {
-		culture = north_caucasian
+		culture = azerbaijani
 		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-		culture = north_caucasian
+		culture = azerbaijani
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = north_caucasian
+		culture = azerbaijani
 		religion = sunni
 		size = 200
 	}
 
 	soldiers = {
-		culture = north_caucasian
+		culture = azerbaijani
 		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-		culture = north_caucasian
+		culture = azerbaijani
 		religion = sunni
 		size = 3600
 	}
@@ -247,61 +247,61 @@
 	}
 
 	aristocrats = {
-		culture = georgian
+		culture = azerbaijani
 		religion = orthodox
 		size = 20
 	}
 
 	clergymen = {
-		culture = georgian
+		culture = azerbaijani
 		religion = orthodox
 		size = 20
 	}
 
 	artisans = {
-		culture = georgian
+		culture = azerbaijani
 		religion = orthodox
 		size = 50
 	}
 
 	soldiers = {
-		culture = georgian
+		culture = azerbaijani
 		religion = orthodox
 		size = 10
 	}
 
 	farmers = {
-		culture = georgian
+		culture = azerbaijani
 		religion = orthodox
 		size = 900
 	}
 
 	aristocrats = {
-		culture = north_caucasian
+		culture = azerbaijani
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = north_caucasian
+		culture = azerbaijani
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = north_caucasian
+		culture = azerbaijani
 		religion = sunni
 		size = 150
 	}
 
 	soldiers = {
-		culture = north_caucasian
+		culture = azerbaijani
 		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-		culture = north_caucasian
+		culture = azerbaijani
 		religion = sunni
 		size = 2600
 	}
@@ -339,31 +339,31 @@
 	}
 
 	aristocrats = {
-		culture = armenian
+		culture = azerbaijani
 		religion = orthodox
 		size = 75
 	}
 
 	clergymen = {
-		culture = armenian
+		culture = azerbaijani
 		religion = orthodox
 		size = 75
 	}
 
 	artisans = {
-		culture = armenian
+		culture = azerbaijani
 		religion = orthodox
 		size = 350
 	}
 
 	soldiers = {
-		culture = armenian
+		culture = azerbaijani
 		religion = orthodox
 		size = 75
 	}
 
 	farmers = {
-		culture = armenian
+		culture = azerbaijani
 		religion = orthodox
 		size = 6425
 	}
@@ -401,31 +401,31 @@
 	}
 
 	aristocrats = {
-		culture = armenian
+		culture = azerbaijani
 		religion = orthodox
 		size = 100
 	}
 
 	clergymen = {
-		culture = armenian
+		culture = azerbaijani
 		religion = orthodox
 		size = 50
 	}
 
 	artisans = {
-		culture = armenian
+		culture = azerbaijani
 		religion = orthodox
 		size = 300
 	}
 
 	soldiers = {
-		culture = armenian
+		culture = azerbaijani
 		religion = orthodox
 		size = 75
 	}
 
 	farmers = {
-		culture = armenian
+		culture = azerbaijani
 		religion = orthodox
 		size = 5475
 	}

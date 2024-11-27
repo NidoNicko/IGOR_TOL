@@ -57,31 +57,31 @@
 	}
 
 	slaves = {
-		culture = african_minor
+		culture = maghrebi
 		religion = animist
 		size = 5000
 	}
 
 	clergymen = {
-		culture = sephardic
+		culture = maghrebi
 		religion = jewish
 		size = 75
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = maghrebi
 		religion = jewish
 		size = 3725
 	}
 
 	artisans = {
-		culture = maltese
+		culture = maghrebi
 		religion = catholic
 		size = 500
 	}
 
 	artisans = {
-		culture = south_italian
+		culture = maghrebi
 		religion = catholic
 		size = 500
 	}
@@ -119,19 +119,19 @@
 	}
 
 	slaves = {
-		culture = african_minor
+		culture = maghrebi
 		religion = animist
 		size = 2000
 	}
 
 	clergymen = {
-		culture = sephardic
+		culture = maghrebi
 		religion = jewish
 		size = 5
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = maghrebi
 		religion = jewish
 		size = 245
 	}
@@ -169,7 +169,7 @@
 	}
 
 	slaves = {
-		culture = african_minor
+		culture = maghrebi
 		religion = animist
 		size = 3000
 	}
@@ -207,19 +207,19 @@
 	}
 
 	slaves = {
-		culture = african_minor
+		culture = maghrebi
 		religion = animist
 		size = 12000
 	}
 
 	clergymen = {
-		culture = sephardic
+		culture = maghrebi
 		religion = jewish
 		size = 5
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = maghrebi
 		religion = jewish
 		size = 245
 	}
@@ -257,7 +257,7 @@
 	}
 
 	slaves = {
-		culture = african_minor
+		culture = maghrebi
 		religion = animist
 		size = 5000
 	}
@@ -295,19 +295,19 @@
 	}
 
 	slaves = {
-		culture = african_minor
+		culture = maghrebi
 		religion = animist
 		size = 4000
 	}
 
 	clergymen = {
-		culture = sephardic
+		culture = maghrebi
 		religion = jewish
 		size = 10
 	}
 
 	artisans = {
-		culture = sephardic
+		culture = maghrebi
 		religion = jewish
 		size = 490
 	}

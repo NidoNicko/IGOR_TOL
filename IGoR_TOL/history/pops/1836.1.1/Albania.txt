@@ -265,19 +265,19 @@
 	}
 
 	clergymen = {
-		culture = greek
+		culture = albanian
 		religion = orthodox
 		size = 125
 	}
 
 	artisans = {
-		culture = greek
+		culture = albanian
 		religion = orthodox
 		size = 1100
 	}
 
 	farmers = {
-		culture = greek
+		culture = albanian
 		religion = orthodox
 		size = 8775
 	}
