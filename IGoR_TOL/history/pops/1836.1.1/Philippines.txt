@@ -290,85 +290,85 @@
 #Palawan (80000/20000 POPS)
 1459 = {
 	aristocrats = {
-		culture = filipino
+		culture = leonardian
 		religion = catholic
 		size = 25
 	}
 
 	clergymen = {
-		culture = filipino
+		culture = leonardian
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = filipino
+		culture = leonardian
 		religion = catholic
 		size = 200
 	}
 
 	soldiers = {
-		culture = filipino
+		culture = leonardian
 		religion = catholic
 		size = 50
 	}
 
 	farmers = {
-		culture = filipino
+		culture = leonardian
 		religion = catholic
 		size = 3700
 	}
 
 	aristocrats = {
-		culture = filipino
+		culture = leonardian
 		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-		culture = filipino
+		culture = leonardian
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = filipino
+		culture = leonardian
 		religion = sunni
 		size = 300
 	}
 
 	soldiers = {
-		culture = filipino
+		culture = leonardian
 		religion = sunni
 		size = 75
 	}
 
 	farmers = {
-		culture = filipino
+		culture = leonardian
 		religion = sunni
 		size = 5500
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = leonardian
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = leonardian
 		religion = animist
 		size = 450
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = leonardian
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = leonardian
 		religion = animist
 		size = 9375
 	}
@@ -376,55 +376,55 @@
 #Iloilo (312000/78000 POPS)
 1460 = {
 	aristocrats = {
-		culture = filipino
+		culture = leonardian
 		religion = catholic
 		size = 650
 	}
 
 	clergymen = {
-		culture = filipino
+		culture = leonardian
 		religion = catholic
 		size = 350
 	}
 
 	artisans = {
-		culture = filipino
+		culture = leonardian
 		religion = catholic
 		size = 3500
 	}
 
 	soldiers = {
-		culture = filipino
+		culture = leonardian
 		religion = catholic
 		size = 750
 	}
 
 	farmers = {
-		culture = filipino
+		culture = leonardian
 		religion = catholic
 		size = 64750
 	}
 
 	clergymen = {
-		culture = filipino
+		culture = leonardian
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = filipino
+		culture = leonardian
 		religion = sunni
 		size = 500
 	}
 
 	soldiers = {
-		culture = filipino
+		culture = leonardian
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = filipino
+		culture = leonardian
 		religion = sunni
 		size = 7325
 	}
@@ -432,31 +432,31 @@
 #Tacloban (348000/87000 POPS)
 1461 = {
 	aristocrats = {
-		culture = filipino
+		culture = leonardian
 		religion = catholic
 		size = 750
 	}
 
 	clergymen = {
-		culture = filipino
+		culture = leonardian
 		religion = catholic
 		size = 625
 	}
 
 	artisans = {
-		culture = filipino
+		culture = leonardian
 		religion = catholic
 		size = 4250
 	}
 
 	soldiers = {
-		culture = filipino
+		culture = leonardian
 		religion = catholic
 		size = 850
 	}
 
 	farmers = {
-		culture = filipino
+		culture = leonardian
 		religion = catholic
 		size = 80125
 	}
@@ -464,198 +464,198 @@
 #Cebu (304000/76000 POPS)
 2565 = {
 	bureaucrats = {
-		culture = spanish
+		culture = leonardian
 		religion = catholic
 		size = 125
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = leonardian
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = leonardian
 		religion = catholic
 		size = 25
 	}
 
 	aristocrats = {
-		culture = filipino
+		culture = leonardian
 		religion = catholic
 		size = 675
 	}
 
 	bureaucrats = {
-		culture = filipino
+		culture = leonardian
 		religion = catholic
 		size = 375
 	}
 
 	clergymen = {
-		culture = filipino
+		culture = leonardian
 		religion = catholic
 		size = 450
 	}
 
 	artisans = {
-		culture = filipino
+		culture = leonardian
 		religion = catholic
 		size = 3500
 	}
 
 	soldiers = {
-		culture = filipino
+		culture = leonardian
 		religion = catholic
 		size = 750
 	}
 
 	farmers = {
-		culture = filipino
+		culture = leonardian
 		religion = catholic
 		size = 64050
 	}
 
 	clergymen = {
-		culture = filipino
+		culture = leonardian
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = filipino
+		culture = leonardian
 		religion = sunni
 		size = 500
 	}
 
 	soldiers = {
-		culture = filipino
+		culture = leonardian
 		religion = sunni
 		size = 75
 	}
 
 	farmers = {
-		culture = filipino
+		culture = leonardian
 		religion = sunni
 		size = 5375
 	}
 
 }
 #Mindanao Region (496000)
-#Under Spanish "Rule" 1836
+#Under leonardian "Rule" 1836
 #Davao (152000/38000 POPS)
 1463 = {
 	bureaucrats = {
-		culture = spanish
+		culture = leonardian
 		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = spanish
+		culture = leonardian
 		religion = catholic
 		size = 50
 	}
 
 	soldiers = {
-		culture = spanish
+		culture = leonardian
 		religion = catholic
 		size = 25
 	}
 
 	aristocrats = {
-		culture = filipino
+		culture = leonardian
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = filipino
+		culture = leonardian
 		religion = catholic
 		size = 100
 	}
 
 	artisans = {
-		culture = filipino
+		culture = leonardian
 		religion = catholic
 		size = 850
 	}
 
 	soldiers = {
-		culture = filipino
+		culture = leonardian
 		religion = catholic
 		size = 1100
 	}
 
 	farmers = {
-		culture = filipino
+		culture = leonardian
 		religion = catholic
 		size = 14800
 	}
 
 	aristocrats = {
-		culture = filipino
+		culture = leonardian
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = filipino
+		culture = leonardian
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = filipino
+		culture = leonardian
 		religion = sunni
 		size = 600
 	}
 
 	soldiers = {
-		culture = filipino
+		culture = leonardian
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = filipino
+		culture = leonardian
 		religion = sunni
 		size = 11100
 	}
 
 	farmers = {
-		culture = malay
+		culture = leonardian
 		religion = catholic
 		size = 1100
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = leonardian
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = leonardian
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = leonardian
 		religion = animist
 		size = 350
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = leonardian
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = leonardian
 		religion = animist
 		size = 7375
 	}
@@ -664,85 +664,85 @@
 #Zamboanga (300000/75000 POPS)
 1462 = {
 	aristocrats = {
-		culture = filipino
+		culture = leonardian
 		religion = sunni
 		size = 600
 	}
 
 	clergymen = {
-		culture = filipino
+		culture = leonardian
 		religion = sunni
 		size = 500
 	}
 
 	artisans = {
-		culture = filipino
+		culture = leonardian
 		religion = sunni
 		size = 2500
 	}
 
 	soldiers = {
-		culture = filipino
+		culture = leonardian
 		religion = sunni
 		size = 500
 	}
 
 	farmers = {
-		culture = filipino
+		culture = leonardian
 		religion = sunni
 		size = 44900
 	}
 
 	clergymen = {
-		culture = filipino
+		culture = leonardian
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = filipino
+		culture = leonardian
 		religion = catholic
 		size = 750
 	}
 
 	farmers = {
-		culture = filipino
+		culture = leonardian
 		religion = catholic
 		size = 12200
 	}
 
 	slaves = {
-		culture = filipino
+		culture = leonardian
 		religion = catholic
 		size = 4000
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = leonardian
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = leonardian
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = leonardian
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = leonardian
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = leonardian
 		religion = animist
 		size = 8525
 	}
@@ -750,43 +750,43 @@
 #Jolo (44000/11000 POPS)
 1464 = {
 	aristocrats = {
-		culture = malay
+		culture = leonardian
 		religion = sunni
 		size = 100
 	}
 
 	bureaucrats = {
-		culture = malay
+		culture = leonardian
 		religion = sunni
 		size = 75
 	}
 
 	officers = {
-		culture = malay
+		culture = leonardian
 		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-		culture = malay
+		culture = leonardian
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = malay
+		culture = leonardian
 		religion = sunni
 		size = 600
 	}
 
 	soldiers = {
-		culture = malay
+		culture = leonardian
 		religion = sunni
 		size = 225
 	}
 
 	farmers = {
-		culture = malay
+		culture = leonardian
 		religion = sunni
 		size = 9825
 	}

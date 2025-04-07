@@ -140,10 +140,14 @@ italian = {
 
 		last_names = { Amiel Benet Dardier Delpuech Ladivèze Gilbert Mistral Lacroux Laffont Maury Miquel Montagut Poujade Pujol Vidal Ros Tisseyre }
 	}
+	leonardian = {
+		color = {214 107 37}
+		first_names = { Alessandro Alfonso Ambrogio Amedeo Andrea Angelo Antonio Benito Camillo Carlo Cesare Costanzo Davide Enrico Ettore Fabrizio Faustino Federico Felice 			Ferdinando Fiorenzo Francesco Gaetano Gennaro Girolamo Giulio Giuseppe Guglielmo Innocenzo Leopoldo Luigi Marco Massimo Matteo Nicola Oreste Paolo Pasquale Pietro Prospero 		Raffaele Roberto Ruggiero Silvio Simone Tancredi Ugo Umberto Vincenzo Vittorio }
+	
+		last_names = { Acton Albricci Badoglio Baldissera Baratieri Cadorna Cagni Canevaro Capello Caviglia Ceccherini Cialdini Cusani "di Robilant" Emo Fanti Fara Filomarino 			Garibaldi Giardino Govone "La MÃ rmora" Mambretti Menabrea Orengo "Pacoret de Saint Bon" Pallavicino Pecori-Giraldi "Pellion di Persano" Pelloux Perruchetti Pianelli 			PorroPresbitero Ramorino Sacchi Saletta Sanna Solari "Thaon di Revel" Vaccari Zupelli }	
+	}
 
-	union = ITA
 }
-
 scandinavian = {
 	leader = european
 	unit = SwedishGC
@@ -193,7 +197,6 @@ scandinavian = {
 		radicalism = 5
 	}
 
-	union = SCA
 }
 
 britannian = {
@@ -300,7 +303,6 @@ britannian = {
 		Smith Smith-Dorrien Stewart Thesiger Tyron Tyrwhitt Williams Windsor Wolseley Wood }
 	}
 
-	union = ENG
 }
 
 far_east_asian = {

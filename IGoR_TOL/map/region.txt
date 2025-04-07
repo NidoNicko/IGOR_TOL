@@ -399,11 +399,11 @@ ENG_266 = { 266 267 268 270 } #Highlands
 
 ENG_284 = { 284 287 288 289 290 } #Midlands
 
-ENG_291 = { 291 292 293 } #Eastern Counties
+ENG_291 = { 291 292 293 295 } #Eastern Counties
 
-ENG_301 = { 300 301 302 } #Sussex-Kent
+#ENG_301 = { 300 301 302 } #Sussex-Kent
 
-ENG_300 = { 294 303 295 } #Southeast England
+ENG_300 = { 294 300 301 302 303 } #Southeast England
 
 ENG_271 = { 271 269 272 279 280 } #Lowlands
 
