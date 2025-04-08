@@ -1,5 +1,5 @@
-owner = ENG
-controller = ENG
+owner = SAR
+controller = SAR
 
 trade_goods = cotton
 life_rating = 35

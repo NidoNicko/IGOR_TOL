@@ -1,5 +1,5 @@
-owner = ENG
-controller = ENG
+owner = LUB
+controller = LUB
 
 trade_goods = cotton
 life_rating = 35

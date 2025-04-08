@@ -1,5 +1,6 @@
-owner = ENG
-controller = ENG
+owner = HAI
+controller = HAI
+add_core = HAI
 trade_goods = cotton
 life_rating = 35
 colonial = 2

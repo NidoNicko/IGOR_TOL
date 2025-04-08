@@ -1,5 +1,5 @@
-owner = DEN
-controller = DEN
+owner = LUB
+controller = LUB
 
 trade_goods = tobacco
 life_rating = 35

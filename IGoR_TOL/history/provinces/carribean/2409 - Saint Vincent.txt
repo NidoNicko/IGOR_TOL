@@ -1,5 +1,5 @@
-owner = ENG
-controller = ENG
+owner = PRU
+controller = PRU
 
 trade_goods = cotton
 life_rating = 35
