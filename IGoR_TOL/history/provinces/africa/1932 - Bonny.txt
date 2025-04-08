@@ -1,3 +1,5 @@
+owner = BSQ
+controller = BSQ
 trade_goods = timber
 life_rating = 20
 

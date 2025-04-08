@@ -1,4 +1,4 @@
-color = { 112  150  105 }
+color = { 12 79 180 }
 graphical_culture = Generic
 
 party = {
@@ -255,30 +255,30 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		"O’Faolain" "Caomhánach" "Mannion" "Corcaigh" "Gaillimh"
+		"O Faolain" "Caomh nach" "Mannion" "Corcaigh" "Gaillimh"
 	}
 	ironclad = {
-		"Baile Átha Cliath" "Cúige Laighean" "Ulaidh" "An Mhumhain" "Connachta"
+		"Baile  tha Cliath" "C ige Laighean" "Ulaidh" "An Mhumhain" "Connachta"
 	}
 	manowar = {
-		"Port Láirge" "Dún na nGall" "Loingsech" "Ó’Conghaile" "An Cóbh"
+		"Port L irge" "D n na nGall" "Loingsech" "Ó’Conghaile" "An C bh"
 	}
 	cruiser = {
-		"Michelle" "Peigi" "Máire" "Róisín" "Esther"
+		"Michelle" "Peigi" "M ire" "R is n" "Esther"
 	}
 	frigate = {
-		"Fort Rannoch" "Cliona" "Maev" "Macha" "an Cóbh"
+		"Fort Rannoch" "Cliona" "Maev" "Macha" "an C bh"
 	}
 	monitor = {
-		"Muirchú" "Réabhlóid" "Dónal Ó Conaill" "Emmet"
+		"Muirch " "R abhl id" "D nal   Conaill" "Emmet"
 	}
 	clipper_transport = {
-		"Parnell" "Oileáin Árann" "an Chláir" "Mhaigh Eo" "Mairead"
+		"Parnell" "Oile in  rann" "an Chl ir" "Mhaigh Eo" "Mairead"
 	}
 	steam_transport = {
 		"Lady Wicklow" "Robin" "Adele" "Aontroim" "Fionn Radharc"
 	}
 	commerce_raider = {
-		"Dún Droma" "Marino" "Baile Bocht" "Béal Feirste" "Frongoch"
+		"D n Droma" "Marino" "Baile Bocht" "B al Feirste" "Frongoch"
 	}
 }
