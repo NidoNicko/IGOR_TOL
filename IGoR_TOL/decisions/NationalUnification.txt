@@ -95,14 +95,10 @@ political_decisions = {
 			add_accepted_culture = danish
 			add_accepted_culture = norwegian
 			add_accepted_culture = finnish
-			add_accepted_culture = icelandic
-			add_accepted_culture = sami
-			SCH = { all_core = { remove_core = SCH add_core = SCA } }
 			DEN = { all_core = { remove_core = DEN add_core = SCA } }
 			SWE = { all_core = { remove_core = SWE add_core = SCA } }
 			NOR = { all_core = { remove_core = NOR add_core = SCA } }
 			FIN = { all_core = { remove_core = FIN add_core = SCA } }
-			ICL = { all_core = { remove_core = ICL add_core = SCA } }
 
 			any_country = {
 				limit = {

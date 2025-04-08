@@ -1,6 +1,6 @@
 capital = 372
 primary_culture = danish
-culture = icelandic
+culture = norwegian
 religion = placeholder
 government = absolute_monarchy
 plurality = 25.0
