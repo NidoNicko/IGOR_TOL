@@ -1045,7 +1045,7 @@ AUS_736 = { 736 737 } #Friuli
 
 AUS_729 = { 729 731 732 733 742 } #Venetia
 
-AUS_726 = { 722 726 738 2568 } #Lombardia
+AUS_726 = { 722 723 726 2568 } #Lombardia
 
 AUS_625 = { 625 626 627 628 629 630 } #Bohemia
 
@@ -1456,11 +1456,11 @@ HES_2560 = { 2560 564 566 565 567 568 } #Hesse-Nassau
 
 SAR_466 = { 465 466 } #Savoie and Nice
 
-SAR_720 = { 720 3255 721 723 724 725 } #Piedmont
+SAR_720 = { 720 3255 721 725 } #Piedmont
 
 SAR_765 = { 765 766 473 502 } #Sardegna
 
-TUS_744 = { 744 745 747 748 740 746 739 741 743 } #Toscana
+TUS_744 = { 744 745 747 748 741 743 } #Toscana
 
 PAP_741 = { 727 728 730 734 } #Emilia-Romagna
 
@@ -1468,7 +1468,7 @@ PAP_741 = { 727 728 730 734 } #Emilia-Romagna
 
 #SIC_754 = { 754 2567 755 } #Campania
 
-#SIC_756 = { 756 759 761 760 758 3259 } #Apulia-Calabria
+SIC_756 = { 724 740 738 739 746 } #Apulia-Calabria
 
 #ITA_753 = { 752 753 751 757 3260 } #Abruzzo-Marche
 

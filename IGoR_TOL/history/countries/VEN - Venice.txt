@@ -1,6 +1,6 @@
 capital = 729
-primary_culture = north_italian
-culture = slovene
+primary_culture = venetian
+culture = north_italian
 religion = placeholder
 government = democracy
 plurality = 0.1

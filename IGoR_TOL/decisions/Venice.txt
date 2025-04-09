@@ -1,0 +1,57 @@
+political_decisions = {
+
+	claim_lombardy = {
+		potential = {
+			tag = VEN
+			NOT = {
+				has_country_flag = claim_lombardy
+			}
+
+		}
+		allow = {
+			war = no
+			LOM = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								vassal_of = THIS
+							}
+						}
+					}
+				} 
+			}
+		}
+		effect = {
+			set_country_flag = claim_lombardy
+			LOM = {
+				annex_to = THIS
+				all_core = {
+					add_core = THIS
+				}
+			}
+		}
+	}
+
+	modena_trade = {
+		potential = {
+			tag = VEN
+			NOT = {has_country_flag = modena_trade}
+			has_country_flag = claim_lombardy
+		}
+		allow = {
+			war = no
+			all_core = {owned_by = THIS}
+			exists = MOD
+		}
+		effect = {
+			badboy = 5
+			set_country_flag = modena_trade
+			MOD = {all_core = {add_core = THIS}}
+		}
+	}
+
+
+}
+
