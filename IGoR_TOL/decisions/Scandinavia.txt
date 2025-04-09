@@ -1,0 +1,124 @@
+political_decisions = {
+	
+
+	form_scandinavia = {
+		potential = {
+			tag = SWE
+		}
+		allow = {
+			war = no
+			state_n_government = 1
+			SWE = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				} 
+			}
+			SCH_370 = {
+				OR = {
+					owned_by = THIS
+					owner = {
+						OR = {
+							in_sphere = THIS
+							overlord = {
+								tag = THIS
+							}
+						}
+					}
+				}
+			}
+			DEN_367 = {
+				OR = {
+					owned_by = THIS
+					owner = {
+						OR = {
+							in_sphere = THIS
+							overlord = {
+								tag = THIS
+							}
+						}
+					}
+				}
+			}
+			DEN_372 = {
+				OR = {
+					owned_by = THIS
+					owner = {
+						OR = {
+							in_sphere = THIS
+							overlord = {
+								tag = THIS
+							}
+						}
+					}
+				}
+			}
+			SWE_313 = {
+				OR = {
+					owned_by = THIS
+					owner = {
+						OR = {
+							in_sphere = THIS
+							overlord = {
+								tag = THIS
+							}
+						}
+					}
+				}
+			}
+			SWE_308 = {
+				OR = {
+					owned_by = THIS
+					owner = {
+						OR = {
+							in_sphere = THIS
+							overlord = {
+								tag = THIS
+							}
+						}
+					}
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 20
+			change_tag = SCA
+			add_accepted_culture = swedish
+			add_accepted_culture = danish
+			add_accepted_culture = norwegian
+			add_accepted_culture = finnish
+			DEN = { all_core = { remove_core = DEN add_core = SCA } }
+			SWE = { all_core = { remove_core = SWE add_core = SCA } }
+			NOR = { all_core = { remove_core = NOR add_core = SCA } }
+			FIN = { all_core = { remove_core = FIN add_core = SCA } }
+
+			any_country = {
+				limit = {
+					NOT = {
+						is_greater_power = yes
+					}
+					is_culture_group = scandinavian
+					OR = {
+						in_sphere = THIS
+						overlord = {
+							tag = THIS
+						}
+					}
+				}
+				country_event = { id=11101 days=0 }
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+
+
+}

@@ -1,0 +1,111 @@
+political_decisions = {
+	
+	form_brittania = {
+		potential = {
+			tag = SCO
+		}
+		allow = {
+			war = no
+			nationalism_n_imperialism = 1
+			SCO = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				} 
+			}
+			IRE = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				} 
+			}
+			WHA = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				} 
+			}
+			ENG = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				} 
+			}
+			UOW = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				} 
+			}
+		}
+		
+		effect = {
+			prestige = 20
+			change_tag = BRI
+			add_accepted_culture = scottish
+			add_accepted_culture = irish
+			add_accepted_culture = welsh
+			add_accepted_culture = english
+			SCO = { all_core = { remove_core = SCO add_core = BRI } }
+			IRE = { all_core = { remove_core = IRE add_core = BRI } }
+			WHA = { all_core = { remove_core = WHA add_core = BRI } }
+			ENG = { all_core = { remove_core = ENG add_core = BRI } }
+			UOW = { all_core = { remove_core = UOW add_core = BRI } }
+			
+			any_country = {
+				limit = {
+					NOT = {
+						is_greater_power = yes
+					}
+					is_culture_group = britannian
+					OR = {
+						in_sphere = THIS
+						overlord = {
+							tag = THIS
+						}
+					}
+				}
+				country_event = { id=11101 days=0 }
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+}
