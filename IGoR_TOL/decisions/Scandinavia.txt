@@ -1,13 +1,11 @@
 political_decisions = {
 	
-
 	form_scandinavia = {
 		potential = {
 			tag = SWE
 		}
 		allow = {
 			war = no
-			state_n_government = 1
 			SWE = {
 				all_core = {
 					OR = {
