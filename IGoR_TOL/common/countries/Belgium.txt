@@ -1,4 +1,4 @@
-color = { 250 200 40 } #230 210 60
+color = { 60 35 140 } #230 210 60
 graphical_culture = EuropeanGC
 
 party = {
@@ -259,7 +259,7 @@ unit_names = {
 		"Jacob van Artevelde"
 	}
 	battleship = {
-		"La Reine Charlotte" "Le Roi Leopold I" "Charles Rogier" "Graaf van Vlaanderen" Jeneval Wielingen Wandelaar Westdiep "Le Roi Leopold II" "Général Brialmont" "La Muette de Portici"
+		"La Reine Charlotte" "Le Roi Leopold I" "Charles Rogier" "Graaf van Vlaanderen" Jeneval Wielingen Wandelaar Westdiep "Le Roi Leopold II" "G n ral Brialmont" "La Muette de Portici"
 	}
 	ironclad = {
 		"Graaf van Vlaanderen" "Hertog van Brabant" "Comte de Hainaut" "Comte de Namur" "Prince de Liege" "Duc d'Ursel" 	
@@ -268,7 +268,7 @@ unit_names = {
 	 	"St. Marie" "St. Joris" "St. Franciscus" "St. Jacobus" "St. Petrus" "St. Bonifatius" 
 	}
 	cruiser = {
-		"François Pelsaert" "Louis Boisot" "Olivier Brunel" "Simon de Cordes" "Albert Dorville" "Jessé de Forest" "Louis Hennepin" 
+		"Fran ois Pelsaert" "Louis Boisot" "Olivier Brunel" "Simon de Cordes" "Albert Dorville" "Jess  de Forest" "Louis Hennepin" 
 		"Melchior van den Kerckhove" "Jacob Mahu"
 	}
 	frigate = {

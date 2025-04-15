@@ -1,6 +1,6 @@
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = BEL
+controller = BEL
+add_core = BEL
 trade_goods = coal
 life_rating = 32
 state_building = {

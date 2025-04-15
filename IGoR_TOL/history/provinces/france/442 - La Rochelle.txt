@@ -1,6 +1,6 @@
-owner = FRA
-controller = FRA
-add_core = FRA
+owner = OCT
+controller = OCT
+add_core = OCT
 trade_goods = fish
 life_rating = 32
 naval_base = 2

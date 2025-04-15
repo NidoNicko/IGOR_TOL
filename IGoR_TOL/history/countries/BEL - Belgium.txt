@@ -1,6 +1,5 @@
-capital = 387
-primary_culture = wallonian
-culture = flemish
+capital = 399
+primary_culture = belgican
 religion = placeholder
 government = hms_government
 plurality = 25.0

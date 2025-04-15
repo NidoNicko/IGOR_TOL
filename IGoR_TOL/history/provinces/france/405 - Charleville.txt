@@ -1,8 +1,8 @@
-owner = FRA
+owner = BEL
 
-controller = FRA
+controller = BEL
 
-add_core = FRA
+add_core = BEL
 
 trade_goods = coal
 

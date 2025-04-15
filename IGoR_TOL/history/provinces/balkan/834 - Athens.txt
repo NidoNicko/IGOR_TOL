@@ -1,6 +1,7 @@
-owner = TUR
-controller = TUR
+owner = ION
+controller = ION
 add_core = GRE
+add_core = ION
 trade_goods = fruit
 life_rating = 35
 1861.1.1 = {
