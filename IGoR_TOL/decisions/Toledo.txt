@@ -1,0 +1,57 @@
+political_decisions = {
+    
+    toledo_leon = {
+        potential = {
+            tag = TOL
+            NOT = { has_country_flag = toledo_leon }
+        }
+        allow = {
+            war = no
+            LEO = {
+			    all_core = {
+				    OR = {
+					    owned_by = THIS
+					    owner = {
+						    OR = {
+						    		in_sphere = THIS
+						    		vassal_of = THIS
+						    }
+					    }
+				    }
+			    } 
+		    }
+        }
+        effect = {
+            inherit = LEO
+	    	LEO = {
+	    		all_core = {
+	    			add_core = TOL
+	    		}
+	    	}
+            set_country_flag = toledo_leon
+        }
+    }
+
+    integrate_portugal = {
+        potential = {
+            tag = TOL
+            NOT = { has_country_flag = integrate_portugal }
+        }
+        allow = {
+            war = no
+            state_n_government = 1
+            POR = { 
+                all_core = { owned_by = THIS }
+            }
+        effect = {
+            add_accepted_culture = portuguese
+            POR = {
+	    		all_core = {
+	    			add_core = TOL
+	    		}
+            }
+            set_country_flag = integrate_portugal
+        }
+    }
+
+}

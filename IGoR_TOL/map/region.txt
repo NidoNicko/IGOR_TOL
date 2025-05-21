@@ -409,11 +409,11 @@ ENG_271 = { 271 269 272 279 280 } #Lowlands
 
 ENG_254 = { 254 255 256 257 } #Ulster
 
-ENG_260 = { 260 261 262 265 } #Munster
+ENG_260 = { 260 261 262 } #Munster
 
-#ENG_258 = { 258 259 257 } #Connacht
+ENG_258 = { 258 259 } #Connacht
 
-ENG_264 = { 263 264 258 259 } #Leinster
+ENG_264 = { 263 264 265 } #Leinster
 
 FRA_461 = { 461 462 463 468 }
 
