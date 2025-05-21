@@ -43,6 +43,7 @@ political_decisions = {
             POR = { 
                 all_core = { owned_by = THIS }
             }
+        }
         effect = {
             add_accepted_culture = portuguese
             POR = {
@@ -51,6 +52,47 @@ political_decisions = {
 	    		}
             }
             set_country_flag = integrate_portugal
+        }
+    }
+
+    form_hispania = {
+        potential = {
+            tag = TOL
+        }
+        allow = {
+            war = no
+            nationalism_n_imperialism = 1
+            TOL = { 
+                all_core = { owned_by = THIS }
+            }
+            LEO = { 
+                all_core = { owned_by = THIS }
+            }
+            POR = { 
+                all_core = { owned_by = THIS }
+            }
+            BSQ = { 
+                all_core = { owned_by = THIS }
+            }
+            CAT = { 
+                all_core = { owned_by = THIS }
+            }
+            GRA = { 
+                all_core = { owned_by = THIS }
+            }
+        }
+        effect = {
+            change_tag = HIS
+			add_accepted_culture = asturleonese
+			add_accepted_culture = portuguese
+			add_accepted_culture = basque
+            add_accepted_culture = catalan
+			TOL = { all_core = { remove_core = TOL add_core = HIS } }
+			LEO = { all_core = { remove_core = LEO add_core = HIS } }
+			POR = { all_core = { remove_core = POR add_core = HIS } }
+			BSQ = { all_core = { remove_core = BSQ add_core = HIS } }
+			CAT = { all_core = { remove_core = CAT add_core = HIS } }
+            GRA = { all_core = { remove_core = GRA add_core = HIS } }
         }
     }
 
