@@ -1,0 +1,205 @@
+political_decisions = {
+
+	claim_lombardy = {
+		potential = {
+			tag = VEN
+			NOT = {
+				has_country_flag = claim_lombardy
+			}
+
+		}
+		allow = {
+			war = no
+			LOM = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								vassal_of = THIS
+							}
+						}
+					}
+				} 
+			}
+		}
+		effect = {
+			set_country_flag = claim_lombardy
+			LOM = {
+				annex_to = THIS
+				all_core = {
+					add_core = THIS
+				}
+			}
+		}
+	}
+
+	modena_trade = {
+		potential = {
+			tag = VEN
+			NOT = {has_country_flag = modena_trade}
+			has_country_flag = claim_lombardy
+		}
+		allow = {
+			war = no
+			all_core = {owned_by = THIS}
+			exists = MOD
+		}
+		effect = {
+			badboy = 5
+			set_country_flag = modena_trade
+			MOD = {all_core = {add_core = THIS}}
+		}
+	}
+	
+	form_italy = {
+		potential = {
+			tag = VEN
+		}
+		
+		allow = {
+			war = no
+			state_n_government = 1
+			VEN = {
+				all_core = {owned_by = THIS}
+			}
+			and = {
+				726 = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				}
+				720 = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				}
+				724 = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				}
+				746 = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				}
+				744 = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				}
+				749 = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				}
+				754 = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				}
+				756 = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				}
+				762 = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				}
+			}
+		}
+		
+		effect = {
+			change_tag = ITA
+			add_accepted_culture = venetian
+			add_accepted_culture = north_italian
+			add_accepted_culture = south_italian
+			SIC = {all_core = {add_core = ITA}}
+			PAP = {all_core = {add_core = ITA}}
+			SAR = {all_core = {add_core = ITA remove_core = SAR}}
+			LOM = {all_core = {add_core = ITA remove_core = LOM}}
+			MOD = {all_core = {add_core = ITA remove_core = MOD}}
+			VEN = {all_core = {add_core = ITA remove_core = VEN}}
+			TUS = {all_core = {add_core = ITA remove_core = TUS}}
+			LUC = {all_core = {add_core = ITA remove_core = LUC}}
+			
+			any_country = {
+				limit = {
+					NOT = {
+						is_greater_power = yes
+					}
+					is_culture_group = italian
+					OR = {
+						in_sphere = THIS
+						overlord = {
+							tag = THIS
+						}
+					}
+				}
+				country_event = { id=11101 days=0 }
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+
+
+}
+

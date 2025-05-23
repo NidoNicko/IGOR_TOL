@@ -1,0 +1,19 @@
+name = "War of the Hungarian Sucession"
+
+1835.12.19 = {
+	add_attacker = POL
+	add_defender = HUN
+
+	war_goal = {
+		casus_belli = humiliate
+		actor = HUN
+		receiver = POL
+	}
+
+	war_goal = {
+		casus_belli = status_quo
+		actor = POL
+		receiver = HUN
+	}
+
+}

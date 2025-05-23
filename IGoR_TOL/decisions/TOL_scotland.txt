@@ -1,0 +1,96 @@
+political_decisions = {
+	
+	form_brittania = {
+		potential = {
+			tag = SCO
+		}
+		allow = {
+			war = no
+			nationalism_n_imperialism = 1
+			SCO = {
+				all_core = { owned_by = THIS } 
+			}
+			IRE = {
+				all_core = { owned_by = THIS } 
+			}
+			WHA = {
+				all_core = { owned_by = THIS } 
+			}
+			ENG = {
+				all_core = { owned_by = THIS } 
+			}
+			UOW = {
+				all_core = { owned_by = THIS } 
+			}
+		}
+		
+		effect = {
+			prestige = 20
+			change_tag = BRI
+			add_accepted_culture = scottish
+			add_accepted_culture = irish
+			add_accepted_culture = welsh
+			SCO = { all_core = { remove_core = SCO add_core = BRI } }
+			IRE = { all_core = { remove_core = IRE add_core = BRI } }
+			WHA = { all_core = { remove_core = WHA add_core = BRI } }
+			ENG = { all_core = { remove_core = ENG add_core = BRI } }
+			UOW = { all_core = { remove_core = UOW add_core = BRI } }
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	integrate_ireland = {
+		potential = {
+			tag = SCO
+			NOT = {has_country_flag = integrate_ireland}
+		}
+		allow = {
+			war = no
+			state_n_government = 1
+			IRE = {
+				all_core = {
+					OR = {
+						owned_by = THIS
+						owner = {
+							OR = {
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				} 
+			}
+		}
+		effect = {
+			add_accepted_culture = irish
+			inherit = IRE
+				IRE = {
+					all_core = {
+						add_core = SCO
+					}
+				}
+			set_country_flag = integrate_ireland
+		}
+	}
+	integrate_wales = {
+		potential = {
+			tag = SCO
+			NOT = {has_country_flag = wales}
+		}
+		allow = {
+			war = no
+			nationalism_n_imperialism = 1
+			ENG_273 = { owned_by = THIS }
+			ENG_296 = { owned_by = THIS }
+		}
+		effect = {
+			add_accepted_culture = welsh
+			ENG_273 = { add_core = SCO }
+			ENG_296 = { add_core = SCO }
+			set_country_flag = integrate_wales
+		}
+	}
+
+}
