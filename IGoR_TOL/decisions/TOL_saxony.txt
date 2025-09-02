@@ -1,0 +1,53 @@
+political_decisions = {
+
+    claim_anhalt = {
+        potential = {
+            tag = SAX
+            NOT = { has_country_flag = claim_anhalt }
+        }
+        allow = {
+            war = no
+            owns = 557
+        }
+        effect = {
+            ANH = {
+                all_core = {
+                    add_core = SAX
+                }
+            }
+            set_country_flag = claim_anhalt
+        }
+    }
+
+    integrate_south_germans = {
+        potential = {
+            tag = SAX
+            NOT = { has_country_flag = integrate_south_germans }
+        }
+        allow = {
+            war = no
+            experimental_psychology = 1
+            owns = 589
+            owns = 595
+            owns = 599
+            owns = 619
+        }
+        effect = {
+            add_accepted_culture = south_german
+            BAV = {
+                all_core = {
+                    add_core = SAX
+                }
+            }
+            WUR = {
+                all_core = {
+                    add_core = SAX
+                }
+            }
+            set_country_flag = integrate_south_germans
+        }
+    }
+
+    
+
+}

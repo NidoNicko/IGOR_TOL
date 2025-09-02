@@ -27,4 +27,6 @@ VEN_ADJ;Venetian;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 SIC;Naples;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 SIC_ADJ;Neapolitan;;;;;;;;;;;;;;;;;;;;;;;x;;;;
 SAR;Genoa;;;;;;;;;;;;;;;;;;;;;;;x;;;;
-SAR;Genoese;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+SAR_ADJ;Genoese;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+LOT;Lotharingia;;;;;;;;;;;;;;;;;;;;;;;x;;;;
+LOT_ADJ;Lotharingian;;;;;;;;;;;;;;;;;;;;;;;x;;;;

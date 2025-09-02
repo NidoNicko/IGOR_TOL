@@ -1,0 +1,100 @@
+political_decisions = {
+
+    conquest_belgica = {
+        potential = {
+            tag = NET
+            NOT = { has_country_flag = conquest_belgica }
+        }
+        allow = {
+            war = no
+            nationalism_n_imperialism = 1
+            BEL = {
+				all_core = { owned_by = THIS } 
+			}
+        }
+        effect = {
+            BEL = { all_core = { add_core = NET } }
+            set_country_flag = conquest_belgica
+        }
+    }
+
+    integrate_afro_frisian = {
+        potential = {
+            tag = NET
+            NOT = { has_country_flag = integrate_afro_frisian }
+        }
+        allow = {
+            war = no
+            nationalism_n_imperialism = 1
+            owns = 1884
+        }
+        effect = {
+            add_accepted_culture = afro_frisian
+            set_country_flag = integrate_afro_frisian
+        }
+    }
+
+    form_lotharingia = {
+        potential = {
+            tag = NET
+            #not throne of lorraine conflict has ended with a different country winning
+        }
+        allow = {
+            war = no
+            NET = {
+				all_core = { owned_by = THIS } 
+			}
+            BAD = {
+				all_core = { owned_by = THIS } 
+            }
+			HAN = {
+				all_core = { owned_by = THIS } 
+			}
+			LIP = {
+				all_core = { owned_by = THIS } 
+			}
+			NAS = {
+				all_core = { owned_by = THIS } 
+			}
+			HES = {
+				all_core = { owned_by = THIS } 
+            }
+            FRM = {
+				all_core = { owned_by = THIS } 
+            }
+            LUX = {
+				all_core = { owned_by = THIS } 
+            }
+        }
+        effect = {
+            change_tag = LOT
+            add_accepted_culture = dutch
+            add_accepted_culture = low_german
+            #add_accepted_culture = german lorraine pop
+            NET = {
+				all_core = { add_core = THIS } 
+			}
+            BAD = {
+				all_core = { add_core = THIS } 
+            }
+			HAN = {
+				all_core = { add_core = THIS } 
+			}
+			LIP = {
+				all_core = { add_core = THIS } 
+			}
+			NAS = {
+				all_core = { add_core = THIS } 
+			}
+			HES = {
+				all_core = { add_core = THIS } 
+            }
+            FRM = {
+				all_core = { add_core = THIS } 
+            }
+            LUX = {
+				all_core = { add_core = THIS } 
+            }
+        }
+    }
+}

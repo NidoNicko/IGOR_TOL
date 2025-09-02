@@ -93,4 +93,40 @@ political_decisions = {
 		}
 	}
 
+	integrate_jambi = {
+		potential = {
+			tag = SCO
+			NOT = { has_country_flag = integrate_jambi }
+			exists = DJA
+			DJA = {vassal_of = THIS}
+		}
+		allow = {
+			war = no
+			interchangeable_parts = 1
+			DJA = { vassal_of = THIS }
+		} 
+		effect = {
+			inherit = DJA
+			set_country_flag = integrate_jambi
+		}
+	}
+
+	integrate_bali = {
+		potential = {
+			tag = SCO
+			NOT = { has_country_flag = integrate_bali }
+			exists = DJA
+			BAL = {vassal_of = THIS}
+		}
+		allow = {
+			war = no
+			iron_railroad = 1
+			BAL = { vassal_of = THIS }
+		} 
+		effect = {
+			inherit = BAL
+			set_country_flag = integrate_bali
+		}
+	}
+
 }
